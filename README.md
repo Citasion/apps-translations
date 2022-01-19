@@ -1,4 +1,5 @@
 # apps-translations
+
 Translation files for our extensions, addons and addins.
 
 This list is expected to be expanded over time.
