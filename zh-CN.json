@@ -97,5 +97,10 @@
   "An unexpected error has occured.": "发生意外的错误。",
   "You have new reference recommendations for your project!": "您对项目有新的参考建议！",
   "You have new venue insights for your project!": "您对项目有新的场地洞察！",
-  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Suggested citations were added in your text. For convenience, they can be identified using the following: $1"
+  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Suggested citations were added in your text. For convenience, they can be identified using the following: $1",
+  "Write in:": "Write in:",
+  "Import references from:": "Import references from:",
+  "Your Citasion projects:": "Your Citasion projects:",
+  "...more": "...more",
+  "Supported languages: English and Spanish.": "Supported languages: English and Spanish."
 }

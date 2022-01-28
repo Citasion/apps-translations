@@ -97,5 +97,10 @@
   "An unexpected error has occured.": "Ha ocurrido un error inesperado.",
   "You have new reference recommendations for your project!": "¡Tienes nuevas recomendaciones de referencia para tu proyecto!",
   "You have new venue insights for your project!": "Tienes nuevas ideas del lugar de publicación para tu proyecto!",
-  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Se agregaron citas sugeridas en su texto. Para mayor comodidad, se pueden identificar usando lo siguiente: $1"
+  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Se agregaron citas sugeridas en su texto. Para mayor comodidad, se pueden identificar usando lo siguiente: $1",
+  "Write in:": "Escribir en:",
+  "Import references from:": "Importar referencias desde:",
+  "Your Citasion projects:": "Sus proyectos Citasion:",
+  "...more": "...más",
+  "Supported languages: English and Spanish.": "Idiomas admitidos: inglés y español."
 }

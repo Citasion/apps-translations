@@ -97,5 +97,10 @@
   "An unexpected error has occured.": "Παρουσιάστηκε μη αναμενόμενο σφάλμα.",
   "You have new reference recommendations for your project!": "Έχετε νέες συστάσεις αναφοράς για το έργο σας!",
   "You have new venue insights for your project!": "Έχετε νέες ιδέες για το έργο σας!",
-  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Suggested citations were added in your text. For convenience, they can be identified using the following: $1"
+  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Suggested citations were added in your text. For convenience, they can be identified using the following: $1",
+  "Write in:": "Write in:",
+  "Import references from:": "Import references from:",
+  "Your Citasion projects:": "Your Citasion projects:",
+  "...more": "...more",
+  "Supported languages: English and Spanish.": "Supported languages: English and Spanish."
 }

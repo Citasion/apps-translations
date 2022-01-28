@@ -97,5 +97,10 @@
   "An unexpected error has occured.": "Došlo k neočekávané chybě.",
   "You have new reference recommendations for your project!": "Máte nové referenční doporučení pro váš projekt!",
   "You have new venue insights for your project!": "Máte nové místo pro váš projekt!",
-  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Doporučené citace byly přidány do textu.Pro pohodlí mohou být identifikovány pomocí následujících: 1 USD"
+  "Suggested citations were added in your text. For convenience, they can be identified using the following: $1": "Doporučené citace byly přidány do textu.Pro pohodlí mohou být identifikovány pomocí následujících: 1 USD",
+  "Write in:": "Write in:",
+  "Import references from:": "Import references from:",
+  "Your Citasion projects:": "Your Citasion projects:",
+  "...more": "...more",
+  "Supported languages: English and Spanish.": "Supported languages: English and Spanish."
 }
