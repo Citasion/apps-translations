@@ -102,5 +102,22 @@
   "Import references from:": "Importar referencias desde:",
   "Your Citasion projects:": "Sus proyectos Citasion:",
   "...more": "...más",
-  "Supported languages: English and Spanish.": "Idiomas admitidos: inglés y español."
+  "Supported languages: English and Spanish.": "Idiomas admitidos: inglés y español.",
+  "The currently active project does not exist. Please select another project from the dropdown menu.": "El proyecto actualmente activo no existe. Seleccione otro proyecto del menú desplegable.",
+  "Add new project...": "Añadir nuevo proyecto...",
+  "Welcome to the Citasion Extension!": "¡Bienvenido a Citasion Extension!",
+  "To begin using Citasion, please review the following information.": "To begin using Citasion, please review the following information.",
+  "Citasion needs access to your tabs in order to import and recommend citations.": "Para comenzar a usar Citasion, revise la siguiente información.",
+  "Citasion also uses technical and device data to prevent fraud and to customize the product for you. This includes cookies that are used to authenticate you, personal data such as your email address, your browser information, and your IP address.": "Citasion también utiliza datos técnicos y de dispositivos para evitar fraudes y personalizar el producto para usted. Esto incluye cookies que se utilizan para autenticarlo, datos personales como su dirección de correo electrónico, la información de su navegador y su dirección IP.",
+  "Share anonymous usage data with Citasion. To make the product better for you and other users, we collect data on which Citasion features you use. This includes data such as which Citasion features $1and websites$2 you use with Citasion.": "Comparta datos de uso anónimos con Citasion. Para mejorar el producto para usted y otros usuarios, recopilamos datos sobre las funciones de Citasion que utiliza. Esto incluye datos como qué funciones de Citasion $1 y sitios web $2 que usa con Citasion.",
+  "I agree. Activate Citasion!": "Estoy de acuerdo. ¡Activa Citasion!",
+  "No, thanks. Please uninstall.": "No, gracias. Por favor, desinstale.",
+  "By installing the extension you agree to Citasion\\'s $1Terms and Conditions$2 and acknowledge that you have read Citasion\\'s $3Privacy Policy$4 and $5Cookie Policy$6": "Al instalar la extensión, acepta los $1Términos y condiciones$2 de Citasion y reconoce que ha leído la $3Política de privacidad$4 y la $5Política de cookies$6 de Citasion",
+  "Citasion Extension updated!": "Citasion Extensión actualizada!",
+  "A few things in case you have not used it for a while.": "Algunas cosas en caso de que no lo hayan usado por un tiempo.",
+  "You need to login to $1Citasion.com$2 to access our features.": "Debe iniciar sesión en $1Citasion.com$2 para acceder a nuestras funciones.",
+  "When you visit websites supported by the extension, notifications will appear to guide you on what features are supported. Make sure to checkout our premium features while you are on trial period or visit $1premium$2 for more information.": "Cuando visite sitios web compatibles con la extensión, aparecerán notificaciones para guiarlo sobre las funciones compatibles. Asegúrese de consultar nuestras funciones premium mientras se encuentra en el período de prueba o visite $1premium$2 para obtener más información.",
+  "What\\'s new!": "¡Qué hay de nuevo!",
+  "Add Citation": "Añadir cita",
+  "DEPRECATED": "The currently active project does not exist. Visit $1here$2 to verify that it exists.||Active project: $1 - Change the active project in Citasion"
 }
