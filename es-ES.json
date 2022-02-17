@@ -112,12 +112,12 @@
   "Share anonymous usage data with Citasion. To make the product better for you and other users, we collect data on which Citasion features you use. This includes data such as which Citasion features $1and websites$2 you use with Citasion.": "Comparta datos de uso anónimos con Citasion. Para mejorar el producto para usted y otros usuarios, recopilamos datos sobre las funciones de Citasion que utiliza. Esto incluye datos como qué funciones de Citasion $1 y sitios web $2 que usa con Citasion.",
   "I agree. Activate Citasion!": "Estoy de acuerdo. ¡Activa Citasion!",
   "No, thanks. Please uninstall.": "No, gracias. Por favor, desinstale.",
-  "By installing the extension you agree to Citasion\\'s $1Terms and Conditions$2 and acknowledge that you have read Citasion\\'s $3Privacy Policy$4 and $5Cookie Policy$6": "Al instalar la extensión, acepta los $1Términos y condiciones$2 de Citasion y reconoce que ha leído la $3Política de privacidad$4 y la $5Política de cookies$6 de Citasion",
   "Citasion Extension updated!": "Citasion Extensión actualizada!",
   "A few things in case you have not used it for a while.": "Algunas cosas en caso de que no lo hayan usado por un tiempo.",
   "You need to login to $1Citasion.com$2 to access our features.": "Debe iniciar sesión en $1Citasion.com$2 para acceder a nuestras funciones.",
   "When you visit websites supported by the extension, notifications will appear to guide you on what features are supported. Make sure to checkout our premium features while you are on trial period or visit $1premium$2 for more information.": "Cuando visite sitios web compatibles con la extensión, aparecerán notificaciones para guiarlo sobre las funciones compatibles. Asegúrese de consultar nuestras funciones premium mientras se encuentra en el período de prueba o visite $1premium$2 para obtener más información.",
-  "What\\'s new!": "¡Qué hay de nuevo!",
   "Add Citation": "Añadir cita",
-  "DEPRECATED": "The currently active project does not exist. Visit $1here$2 to verify that it exists.||Active project: $1 - Change the active project in Citasion"
+  "DEPRECATED": "Active project: $1 - Change the active project in Citasion||What\\'s new!||The currently active project does not exist. Visit $1here$2 to verify that it exists.||By installing the extension you agree to Citasion\\'s $1Terms and Conditions$2 and acknowledge that you have read Citasion\\'s $3Privacy Policy$4 and $5Cookie Policy$6",
+  "By installing the extension you agree to Citasion's $1Terms and Conditions$2 and acknowledge that you have read Citasion's $3Privacy Policy$4 and $5Cookie Policy$6": "Al instalar la extensión, acepta los $1Términos y condiciones$2 de Citasion y reconoce que ha leído la $3Política de privacidad$4 y la $5Política de cookies$6 de Citasion",
+  "What's new!": "¡Qué hay de nuevo!"
 }

@@ -123,5 +123,7 @@
   "Add Citation": "Add Citation",
   "The currently active project does not exist. Visit $1here$2 to verify that it exists. - DEPRECATED - DEPRECATED": "DEPRECATED",
   "Active project: $1 - Change the active project in Citasion - DEPRECATED - DEPRECATED": "DEPRECATED",
-  "DEPRECATED": "The currently active project does not exist. Visit $1here$2 to verify that it exists.||Active project: $1 - Change the active project in Citasion"
+  "DEPRECATED": "Active project: $1 - Change the active project in Citasion||What\\'s new!||The currently active project does not exist. Visit $1here$2 to verify that it exists.||By installing the extension you agree to Citasion\\'s $1Terms and Conditions$2 and acknowledge that you have read Citasion\\'s $3Privacy Policy$4 and $5Cookie Policy$6",
+  "By installing the extension you agree to Citasion's $1Terms and Conditions$2 and acknowledge that you have read Citasion's $3Privacy Policy$4 and $5Cookie Policy$6": "By installing the extension you agree to Citasion's $1Terms and Conditions$2 and acknowledge that you have read Citasion's $3Privacy Policy$4 and $5Cookie Policy$6",
+  "What's new!": "What's new!"
 }

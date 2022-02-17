@@ -119,5 +119,7 @@
   "When you visit websites supported by the extension, notifications will appear to guide you on what features are supported. Make sure to checkout our premium features while you are on trial period or visit $1premium$2 for more information.": "When you visit websites supported by the extension, notifications will appear to guide you on what features are supported. Make sure to checkout our premium features while you are on trial period or visit $1premium$2 for more information.",
   "What\\'s new!": "What\\'s new!",
   "Add Citation": "Add Citation",
-  "DEPRECATED": "The currently active project does not exist. Visit $1here$2 to verify that it exists.||Active project: $1 - Change the active project in Citasion"
+  "DEPRECATED": "Active project: $1 - Change the active project in Citasion||What\\'s new!||The currently active project does not exist. Visit $1here$2 to verify that it exists.||By installing the extension you agree to Citasion\\'s $1Terms and Conditions$2 and acknowledge that you have read Citasion\\'s $3Privacy Policy$4 and $5Cookie Policy$6",
+  "By installing the extension you agree to Citasion's $1Terms and Conditions$2 and acknowledge that you have read Citasion's $3Privacy Policy$4 and $5Cookie Policy$6": "By installing the extension you agree to Citasion's $1Terms and Conditions$2 and acknowledge that you have read Citasion's $3Privacy Policy$4 and $5Cookie Policy$6",
+  "What's new!": "What's new!"
 }
