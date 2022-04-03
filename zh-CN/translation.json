@@ -1,0 +1,41 @@
+{
+  "globals": {
+    "notLoggedInMsg": "",
+    "errorLoginMsgNoLink": "",
+    "loading": "",
+    "premium": "",
+    "beta": ""
+  },
+  "citation-import": {
+    "bg-citation-import": {
+      "maximumLimitReached": "",
+      "errorAdding": "",
+      "checkingFailed": ""
+    },
+    "cnt-citation-import": {
+      "addNewProject": "",
+      "notAuthorized": "",
+      "loadingCitation": "",
+      "addToCitasion": "",
+      "cannotImport": "",
+      "directImport": ""
+    }
+  },
+  "background": {
+    "query": {
+      "unableToFetch": "",
+      "activeNotExists": "",
+      "cannotReceiveResource": "",
+      "unexpectedError": ""
+    }
+  },
+  "citation-manager": {
+    "generators": {
+      "noCitationsFound": ""
+    },
+    "menu": {
+      "updateCitation": "",
+      "addCitation": ""
+    }
+  }
+}

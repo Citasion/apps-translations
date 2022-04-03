@@ -1,0 +1,41 @@
+{
+  "globals": {
+    "notLoggedInMsg": "You are not logged in your Citasion account. Login {{openTag}}here{{closeTag}}",
+    "errorLoginMsgNoLink": "Your login information appears to be outdated. Please login at Citasion.com",
+    "loading": "Loading...",
+    "premium": "premium",
+    "beta": "beta"
+  },
+  "citation-import": {
+    "bg-citation-import": {
+      "maximumLimitReached": "The maximum limit of citations that you can add may have been reached.",
+      "errorAdding": "There was an error adding a citation.",
+      "checkingFailed": "Checking citation failed"
+    },
+    "cnt-citation-import": {
+      "addNewProject": "Add new project...",
+      "notAuthorized": "Please log in through the Citasion website",
+      "loadingCitation": "Loading Citation",
+      "addToCitasion": "Add to Citasion",
+      "cannotImport": "Cannot import this paper",
+      "directImport": "Direct import to Citasion is supported."
+    }
+  },
+  "background": {
+    "query": {
+      "unableToFetch": "Unable to fetch url",
+      "activeNotExists": "The currently active project does not exist. Visit $1here$2 to verify that it exists.",
+      "cannotReceiveResource": "Cannot retrieve resource from the web server. The server is temporarily down or an occur has occured.",
+      "unexpectedError": "An unexpected error has occured."
+    }
+  },
+  "citation-manager": {
+    "generators": {
+      "noCitationsFound": "No citations were found in the document. Please insert some citations first."
+    },
+    "menu": {
+      "updateCitation": "Update Citation",
+      "addCitation": "Add Citation"
+    }
+  }
+}
