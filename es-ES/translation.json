@@ -4,7 +4,10 @@
     "errorLoginMsgNoLink": "",
     "loading": "",
     "premium": "",
-    "beta": ""
+    "beta": "",
+    "citasion": "",
+    "login": "",
+    "text": ""
   },
   "citation-import": {
     "bg-citation-import": {
@@ -35,7 +38,25 @@
     },
     "menu": {
       "updateCitation": "",
-      "addCitation": ""
+      "addCitation": "",
+      "recommended": "",
+      "recent": "",
+      "searchInProject": "",
+      "insertCitation": "",
+      "editCitation": "",
+      "insertReferences": "",
+      "suggestCitation": "",
+      "bibliographyChange": "",
+      "setProject": "",
+      "suggestedAdded": "",
+      "noSuggested": "",
+      "keyTip": "",
+      "citationResults": "",
+      "typeKeywords": ""
     }
+  },
+  "global": {
+    "settings": "",
+    "help": ""
   }
 }

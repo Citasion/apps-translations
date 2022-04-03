@@ -4,7 +4,10 @@
     "errorLoginMsgNoLink": "Your login information appears to be outdated. Please login at Citasion.com",
     "loading": "Loading...",
     "premium": "premium",
-    "beta": "beta"
+    "beta": "beta",
+    "citasion": "Citasion",
+    "login": "",
+    "text": "Text"
   },
   "citation-import": {
     "bg-citation-import": {
@@ -35,7 +38,25 @@
     },
     "menu": {
       "updateCitation": "Update Citation",
-      "addCitation": "Add Citation"
+      "addCitation": "Add Citation",
+      "recommended": "Recommended citations",
+      "recent": "Recently added citations",
+      "searchInProject": "Search in your associated project for citations",
+      "insertCitation": "Insert citation",
+      "editCitation": "Edit citation",
+      "insertReferences": "Insert references",
+      "suggestCitation": "Suggest in-text citations",
+      "bibliographyChange": "Change bibliography style",
+      "setProject": "Set associated project",
+      "suggestedAdded": "Suggested citations were added in your text. For convenience, they can be identified using the following: {{temp}}",
+      "noSuggested": "No suitable locations for in-text citation recommendations were found.",
+      "keyTip": "Use {{openTag}}Up{{closeTag}} and {{openTag}}Down{{closeTag}} arrows to navigate, {{openTag}}Enter{{closeTag}} to select a citation.",
+      "citationResults": "Citation Results",
+      "typeKeywords": "type keywords or DOI"
     }
+  },
+  "global": {
+    "settings": "Settings",
+    "help": "Help"
   }
 }
