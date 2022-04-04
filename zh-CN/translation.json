@@ -27,13 +27,13 @@
       "loadingCitation": "加载Citasion",
       "addToCitasion": "导入该引用",
       "cannotImport": "无法导入该引用",
-      "directImport": "不支持直接导入"
+      "directImport": "不支持自动引用导入"
     }
   },
   "background": {
     "query": {
-      "unableToFetch": "",
-      "activeNotExists": "",
+      "unableToFetch": "无法获取URL",
+      "activeNotExists": "该项目不存在。请点击$1这里$2查看你所有的项目",
       "cannotReceiveResource": "无法连接服务器, 请稍后重试",
       "unexpectedError": "发生意外的错误"
     }
@@ -51,57 +51,57 @@
       "insertCitation": "添加引用",
       "editCitation": "更新引用",
       "insertReferences": "添加文献",
-      "suggestCitation": "",
+      "suggestCitation": "开始推荐文本内引文",
       "bibliographyChange": "更新文献格式",
       "setProject": "设置关联项目",
-      "suggestedAdded": "",
-      "noSuggested": "没有找到文本建议引用的合适位置",
-      "keyTip": "",
-      "citationResults": "",
+      "suggestedAdded": "已添加推荐的引用。推荐的引用可以用如下下方式识别{{temp}}",
+      "noSuggested": "没有合适位置来添加推荐的引用",
+      "keyTip": "使用{{openTag}}向上{{closeTag}}和{{openTag}}向下{{closeTag}}箭头来移动光标，使用{{openTag}}Enter{{closeTag}}来选择引用",
+      "citationResults": "引用",
       "typeKeywords": "搜索关键字或DOI",
-      "needRecommendations": "",
+      "needRecommendations": "需要引用推荐吗?",
       "recommendedCitations": "推荐的引用",
       "insertingCitation": "在文本中添加引用...",
       "noCitationSelected": "没有选中任何引用",
       "logout": "登出",
-      "inTextRecommendations": "",
-      "supportedLanguages": "",
-      "writingStyle": "写作推荐",
+      "inTextRecommendations": "推荐的引用",
+      "supportedLanguages": "支持的语言：英语，中文，西班牙语",
+      "writingStyle": "写作风格",
       "showOnlyOnce": "该提醒只显示一次",
-      "addTwoOrMore": "",
+      "addTwoOrMore": "你可以再次搜索来添加更多的引用",
       "alreadyIncluded": "引用已导入",
       "biblioStyle": "文献格式",
       "currentlySelected": "文献格式预览",
       "selectAnOption": "请从上面列表中选择一个选项",
-      "styleDoc": "",
-      "citationsCSL": "",
+      "styleDoc": "文献格式",
+      "citationsCSL": "CSL的引用 (citeproc-js)- https://citationstyles.org",
       "changeBiblio": "更新文献格式",
       "updatingBiblio": "更新文献格式...",
       "retrievingPreview": "加载预览...",
-      "selectTheDropdown": "",
+      "selectTheDropdown": "选择下拉框，点击{{openTag}}退格 (Backspace){{closeTag}}，然后输入关键字来搜索文献格式",
       "changeProject": "改变关联项目",
       "noRelevantCitations": "没有找到相关的引用或项目内没有任何引用",
       "clickToAdd": "点击此处添加更多引用",
-      "createMore": "",
+      "createMore": "你可以在{{openTag}}Citasion{{closeTag}}上创建更多项目",
       "updatingProject": "加载新的关联项目...",
       "noProjectMsg": "您尚未为此文档设置Citasion引用项目; 请从菜单中选择一个关联项目",
-      "modifiedCitationMsg": "",
+      "modifiedCitationMsg": "你手动修改了这个引用；当参考文献样式更新时，我们不会自动更新该引用。如果你想改变Citasion的这种默认行为，请点击菜单Citasion -> 更新引用",
       "pressToEdit": "快捷键: 按{{openTag}}Ctrl + M{{closeTag}}来编辑引用"
     },
     "google-docs": {
-      "authDecline": "",
+      "authDecline": "Citasion不能在没有授权的情况下编辑Google Docs。请先授权Citasion编辑Google Docs的权限",
       "updatingReferences": "更新文献...",
       "editCitation": "更新引用",
       "authPromptMsg": "Citasion需要编辑Google Docs的权限来加载引用"
     },
     "overleaf": {
-      "citationSuggested": "",
-      "clickToCreate": "",
+      "citationSuggested": "Citasion推荐的引用",
+      "clickToCreate": "点击 Create来添加一个Bib文件 (包含所有引用对应的参考文献添)。如果你更新了任何文本内的引用，你可以刷新该文件",
       "suggestedCommented": ""
     },
     "text-recommendations": {
       "recommendedCitation": "推荐引用",
-      "addCitation": "",
+      "addCitation": "添加引用",
       "writingRecommendation": "写作推荐"
     },
     "word": {
@@ -113,7 +113,7 @@
     "settings": "设置",
     "help": "帮助",
     "delayer": {
-      "takingABitLonger_0": "基于流量限制, 您的查询需要更长的时间来完成; 预计时间为{{count}}秒。"
+      "takingABitLonger_0": "基于Google Scholar流量限制, 您的查询需要更长的时间来完成; 预计时间为{{count}}秒。"
     },
     "LanguageSelector": {
       "preferred": "首选语言",
@@ -127,16 +127,16 @@
   "forms": {
     "welcome": "欢迎下载使用Citasion插件!",
     "toBegin": "使用Citasion之前, 请阅读以下信息",
-    "citasionNeeds": "",
-    "citasionUses": "",
-    "shareMsg": "",
+    "citasionNeeds": "Citasion需要访问你当前的浏览器页面来导入和推荐引文",
+    "citasionUses": "Citasion也使用设备数据来防止欺诈和为您定制产品，这些数据包括用于验证你的Citasion账户的cookies，你的电子邮件地址，你的浏览器信息，以及你的IP地址。",
+    "shareMsg": "与Citasion分享匿名的使用数据：为了使产品更好地服务于你和其他用户，我们会收集你使用Citasion的数据，包括诸如你使用了哪些功能和访问{{openTag}}Citasion网站{{closeTag}}的数据。",
     "agree": "我同意以上条款; 激活Citasion!",
     "no": "请继续卸载Citasion",
-    "byInstalling": "",
+    "byInstalling": "安装插件代表您同意Citasion的{{openTag}}条款和声明{{closeTag}}，并承认您已阅读Citasion的{{openTag1}}隐私保护协议{{closeTag}}和{{openTag2}}Cookie隐私条款和声明{{closeTag}}。",
     "citasionUpdated": "Citasion插件已更新",
-    "aFewThings": "",
-    "login": "",
-    "premiumMsg": "",
+    "aFewThings": "如果你有一段时间没有使用Citasion，你可能需要注意：",
+    "login": "使用Citasion之前，你需要登录{{openTag}}citasion.com{{closeTag}}",
+    "premiumMsg": "当你访问Citasion插件支持的学术网站时，插件会引导你了解Citasion可用的功能。请查看我们的{{openTag}}高级功能{{closeTag}}来了解更多信息",
     "whatsNew": "更新内容"
   },
   "popup": {
@@ -153,8 +153,8 @@
     "anote2": "支持Google Docs, Overleaf和Word",
     "anote3": "支持协作写作",
     "anote4": "智能文献推荐和分析",
-    "writeIn": "",
-    "importRefs": "",
+    "writeIn": "支持的写作平台和软件:",
+    "importRefs": "支持自动引用导入的学术站点:",
     "yourCitations": "你的Citasion项目:",
     "more": "更多..."
   }
