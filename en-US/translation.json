@@ -6,8 +6,14 @@
     "premium": "premium",
     "beta": "beta",
     "citasion": "Citasion",
-    "login": "",
-    "text": "Text"
+    "login": "Login",
+    "text": "Text",
+    "citations": "Citations",
+    "close": "Close",
+    "language": "Language",
+    "cancel": "Cancel",
+    "disassociate": "Disassociate",
+    "home": "Home"
   },
   "citation-import": {
     "bg-citation-import": {
@@ -52,11 +58,105 @@
       "noSuggested": "No suitable locations for in-text citation recommendations were found.",
       "keyTip": "Use {{openTag}}Up{{closeTag}} and {{openTag}}Down{{closeTag}} arrows to navigate, {{openTag}}Enter{{closeTag}} to select a citation.",
       "citationResults": "Citation Results",
-      "typeKeywords": "type keywords or DOI"
+      "typeKeywords": "type keywords or DOI",
+      "needRecommendations": "Need recommendations?",
+      "recommendedCitations": "Recommended Citations",
+      "insertingCitation": "Inserting citation in text...",
+      "noCitationSelected": "No citation was selected",
+      "logout": "Logout from Citasion",
+      "inTextRecommendations": "In-text recommendations:",
+      "supportedLanguages": "Supported languages: English and Spanish.",
+      "writingStyle": "Writing style",
+      "showOnlyOnce": "Show only once",
+      "addTwoOrMore": "You can add two or more citations by searching again.",
+      "alreadyIncluded": "Citation is already included in the list.",
+      "biblioStyle": "Bibliography style",
+      "currentlySelected": "Currently selected style preview",
+      "selectAnOption": "Select an option from the list above",
+      "styleDoc": "Style documentation",
+      "citationsCSL": "Citations by CSL (citeproc-js) - https://citationstyles.org",
+      "changeBiblio": "Change bibliography",
+      "updatingBiblio": "Updating bibliography style...",
+      "retrievingPreview": "Retrieving preview...",
+      "selectTheDropdown": "Select the dropdown box, hit {{openTag}}backspace{{closeTag}} and type to search a bibliography style.",
+      "changeProject": "Change associated project",
+      "noRelevantCitations": "No relevant citations found or project contains no citations.",
+      "clickToAdd": "Click here to add more citations",
+      "createMore": "You can create more projects on {{openTag}}Citasion{{closeTag}}",
+      "updatingProject": "Updating associated project...",
+      "noProjectMsg": "You have not set a project for this document. Please set a project from the Citasion menu.",
+      "modifiedCitationMsg": "You have modified this citation so we will not automatically update it when references get updated. If you want to force an update, edit it using the Citasion -> Edit Citation menu option.",
+      "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation."
+    },
+    "text-recommendations": {
+      "recommendedCitation": "Recommended citation",
+      "addCitation": "Add citation",
+      "writingRecommendation": "Writing recommendation"
+    },
+    "google-docs": {
+      "authDecline": "Citasion cannot work on Google Docs without authorizing it to read the document in order to modify citations.",
+      "updatingReferences": "Updating references...",
+      "editCitation": "Edit Citation",
+      "authPromptMsg": "You will be prompted to authorize Citasion to access Google Docs so that it can edit your citations."
+    },
+    "overleaf": {
+      "citationSuggested": "Citasion suggested citation",
+      "clickToCreate": "Click \"Create\" to add all your references in a bib file. You can refresh that file if you make any changes.",
+      "suggestedCommented": "Citasion suggested citation commented lines"
+    },
+    "word": {
+      "ourBrowserSupports": "Our browser extension supports one-click reference importation. Install our extension {{openTag}}here{{closeTag}}",
+      "updatingReferences": "Updating document references..."
     }
   },
   "global": {
     "settings": "Settings",
-    "help": "Help"
+    "help": "Help",
+    "delayer": {
+      "takingABitLonger": "Your query is taking a bit longer to complete due to website restrictions. Estimated time is {{count}} seconds.",
+      "takingABitLonger_plural": ""
+    },
+    "LanguageSelector": {
+      "preferred": "Preferred Language",
+      "thisWillReload": "This will reload the window in order to take effect."
+    },
+    "recommendation": {
+      "newReference": "You have new reference recommendations for your project!",
+      "newInsight": "You have new venue insights for your project!"
+    }
+  },
+  "forms": {
+    "welcome": "Welcome to the Citasion Extension!",
+    "toBegin": "To begin using Citasion, please review the following information.",
+    "citasionNeeds": "Citasion needs access to your tabs in order to import and recommend citations.",
+    "citasionUses": "Citasion also uses technical and device data to prevent fraud and to customize the product for you. This includes cookies that are used to authenticate you, personal data such as your email address, your browser information, and your IP address.",
+    "shareMsg": "Share anonymous usage data with Citasion. To make the product better for you and other users, we collect data on which Citasion features you use. This includes data such as which Citasion features {{openTag}}and websites{{closeTag}} you use with Citasion.",
+    "agree": "I agree. Activate Citasion!",
+    "no": "No, thanks. Please uninstall.",
+    "byInstalling": "By installing the extension you agree to Citasion's {{openTag}}Terms and Conditions{{closeTag}} and acknowledge that you have read Citasion's {{openTag1}}Privacy Policy{{closeTag}} and {{openTag2}}Cookie Policy{{closeTag}}",
+    "citasionUpdated": "Citasion Extension updated!",
+    "aFewThings": "A few things in case you have not used it for a while.",
+    "login": "You need to login to {{openTag}}Citasion.com{{closeTag}} to access our features.",
+    "premiumMsg": "When you visit websites supported by the extension, notifications will appear to guide you on what features are supported. Make sure to checkout our premium features while you are on trial period or visit {{openTag}}premium{{closeTag}} for more information.",
+    "whatsNew": "What's new!"
+  },
+  "popup": {
+    "loggedIn": "You are logged in and have access to all our premium features.",
+    "goPremium": "Go premium",
+    "goPremiumMsg": "Go premium to unlock the following:",
+    "note1": "Advanced Citasion project management",
+    "note2": "Unlimited PDF paper storage",
+    "note3": "Literature analytics",
+    "note4": "Literature recommendations",
+    "note5": "Venue analytics",
+    "loginToUnlock": "Login now to unlock the following:",
+    "anote1": "One-click paper importation",
+    "anote2": "Easy referencing for Google Docs, Overleaf and Word",
+    "anote3": "Full support of collaborative writing",
+    "anote4": "AI-based recommendations and analytics",
+    "writeIn": "Write in:",
+    "importRefs": "Import references from:",
+    "yourCitations": "Your Citasion projects:",
+    "more": "...more"
   }
 }
