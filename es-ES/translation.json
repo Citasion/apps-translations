@@ -1,7 +1,7 @@
 {
   "globals": {
     "notLoggedInMsg": "Usted no está registrado en su cuenta de la Citasion. Iniciar sesión {{openTag}}aquic{{closeTag}}",
-    "errorLoginMsgNoLink": "Su información de inicio de sesión parece estar desactualizada. Por favor, inicie sesión en Citasion.com",
+    "errorLoginMsgNoLink": "Su información de inicio de sesión parece estar desactualizada. Por favor, inicie sesión en citasion.com",
     "loading": "Cargando...",
     "premium": "premium",
     "beta": "beta",
