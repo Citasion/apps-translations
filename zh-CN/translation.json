@@ -1,98 +1,98 @@
 {
   "globals": {
-    "notLoggedInMsg": "",
-    "errorLoginMsgNoLink": "",
-    "loading": "",
-    "premium": "",
-    "beta": "",
-    "citasion": "",
-    "login": "",
-    "text": "",
-    "citations": "",
-    "close": "",
-    "language": "",
-    "cancel": "",
-    "disassociate": "",
-    "home": ""
+    "notLoggedInMsg": "你还没有登录Citasion; 请先{{openTag}}登录{{closeTag}}",
+    "errorLoginMsgNoLink": "您的登录信息已经过期; 请先登录citasion.com",
+    "loading": "加载...",
+    "premium": "高级会员",
+    "beta": "beta",
+    "citasion": "Citasion",
+    "login": "登录",
+    "text": "文本",
+    "citations": "引用",
+    "close": "关闭",
+    "language": "选择语言",
+    "cancel": "取消",
+    "disassociate": "移除关联项目",
+    "home": "Citasion主页"
   },
   "citation-import": {
     "bg-citation-import": {
-      "maximumLimitReached": "",
-      "errorAdding": "",
+      "maximumLimitReached": "你已达到可以添加引用的最大限制",
+      "errorAdding": "添加引用时出错了",
       "checkingFailed": ""
     },
     "cnt-citation-import": {
-      "addNewProject": "",
-      "notAuthorized": "",
-      "loadingCitation": "",
-      "addToCitasion": "",
-      "cannotImport": "",
-      "directImport": ""
+      "addNewProject": "添加新项目...",
+      "notAuthorized": "请通过Citasion网站登录",
+      "loadingCitation": "加载Citasion",
+      "addToCitasion": "导入该引用",
+      "cannotImport": "无法导入该引用",
+      "directImport": "不支持直接导入"
     }
   },
   "background": {
     "query": {
       "unableToFetch": "",
       "activeNotExists": "",
-      "cannotReceiveResource": "",
-      "unexpectedError": ""
+      "cannotReceiveResource": "无法连接服务器, 请稍后重试",
+      "unexpectedError": "发生意外的错误"
     }
   },
   "citation-manager": {
     "generators": {
-      "noCitationsFound": ""
+      "noCitationsFound": "你还没有添加任何文本引用; 请先添加文本引用, 再添加文献"
     },
     "menu": {
-      "updateCitation": "",
-      "addCitation": "",
-      "recommended": "",
-      "recent": "",
-      "searchInProject": "",
-      "insertCitation": "",
-      "editCitation": "",
-      "insertReferences": "",
+      "updateCitation": "更新引用",
+      "addCitation": "添加引用",
+      "recommended": "推荐引用",
+      "recent": "最近添加的引用",
+      "searchInProject": "在您的关联项目中搜索引用",
+      "insertCitation": "添加引用",
+      "editCitation": "更新引用",
+      "insertReferences": "添加文献",
       "suggestCitation": "",
-      "bibliographyChange": "",
-      "setProject": "",
+      "bibliographyChange": "更新文献格式",
+      "setProject": "设置关联项目",
       "suggestedAdded": "",
-      "noSuggested": "",
+      "noSuggested": "没有找到文本建议引用的合适位置",
       "keyTip": "",
       "citationResults": "",
-      "typeKeywords": "",
+      "typeKeywords": "搜索关键字或DOI",
       "needRecommendations": "",
-      "recommendedCitations": "",
-      "insertingCitation": "",
-      "noCitationSelected": "",
-      "logout": "",
+      "recommendedCitations": "推荐的引用",
+      "insertingCitation": "在文本中添加引用...",
+      "noCitationSelected": "没有选中任何引用",
+      "logout": "登出",
       "inTextRecommendations": "",
       "supportedLanguages": "",
-      "writingStyle": "",
-      "showOnlyOnce": "",
+      "writingStyle": "写作推荐",
+      "showOnlyOnce": "该提醒只显示一次",
       "addTwoOrMore": "",
-      "alreadyIncluded": "",
-      "biblioStyle": "",
-      "currentlySelected": "",
-      "selectAnOption": "",
+      "alreadyIncluded": "引用已导入",
+      "biblioStyle": "文献格式",
+      "currentlySelected": "文献格式预览",
+      "selectAnOption": "请从上面列表中选择一个选项",
       "styleDoc": "",
       "citationsCSL": "",
-      "changeBiblio": "",
-      "updatingBiblio": "",
-      "retrievingPreview": "",
+      "changeBiblio": "更新文献格式",
+      "updatingBiblio": "更新文献格式...",
+      "retrievingPreview": "加载预览...",
       "selectTheDropdown": "",
-      "changeProject": "",
-      "noRelevantCitations": "",
-      "clickToAdd": "",
+      "changeProject": "改变关联项目",
+      "noRelevantCitations": "没有找到相关的引用或项目内没有任何引用",
+      "clickToAdd": "点击此处添加更多引用",
       "createMore": "",
-      "updatingProject": "",
-      "noProjectMsg": "",
+      "updatingProject": "加载新的关联项目...",
+      "noProjectMsg": "您尚未为此文档设置Citasion引用项目; 请从菜单中选择一个关联项目",
       "modifiedCitationMsg": "",
-      "pressToEdit": ""
+      "pressToEdit": "快捷键: 按{{openTag}}Ctrl + M{{closeTag}}来编辑引用"
     },
     "google-docs": {
       "authDecline": "",
-      "updatingReferences": "",
-      "editCitation": "",
-      "authPromptMsg": ""
+      "updatingReferences": "更新文献...",
+      "editCitation": "更新引用",
+      "authPromptMsg": "Citasion需要编辑Google Docs的权限来加载引用"
     },
     "overleaf": {
       "citationSuggested": "",
@@ -100,62 +100,62 @@
       "suggestedCommented": ""
     },
     "text-recommendations": {
-      "recommendedCitation": "",
+      "recommendedCitation": "推荐引用",
       "addCitation": "",
-      "writingRecommendation": ""
+      "writingRecommendation": "写作推荐"
     },
     "word": {
-      "ourBrowserSupports": "",
-      "updatingReferences": ""
+      "ourBrowserSupports": "我们的浏览器插件支持一键参考导入引用; 点这里({{openTag}}here{{closeTag}})安装我们的插件",
+      "updatingReferences": "文献更新中..."
     }
   },
   "global": {
-    "settings": "",
-    "help": "",
+    "settings": "设置",
+    "help": "帮助",
     "delayer": {
-      "takingABitLonger_0": ""
+      "takingABitLonger_0": "基于流量限制, 您的查询需要更长的时间来完成; 预计时间为{{count}}秒。"
     },
     "LanguageSelector": {
-      "preferred": "",
-      "thisWillReload": ""
+      "preferred": "首选语言",
+      "thisWillReload": "此项操作需要刷新该页面以生效"
     },
     "recommendation": {
-      "newReference": "",
-      "newInsight": ""
+      "newReference": "你有新的文献推荐!",
+      "newInsight": "意向期刊/会议分析完成"
     }
   },
   "forms": {
-    "welcome": "",
-    "toBegin": "",
+    "welcome": "欢迎下载使用Citasion插件!",
+    "toBegin": "使用Citasion之前, 请阅读以下信息",
     "citasionNeeds": "",
     "citasionUses": "",
     "shareMsg": "",
-    "agree": "",
-    "no": "",
+    "agree": "我同意以上条款; 激活Citasion!",
+    "no": "请继续卸载Citasion",
     "byInstalling": "",
-    "citasionUpdated": "",
+    "citasionUpdated": "Citasion插件已更新",
     "aFewThings": "",
     "login": "",
     "premiumMsg": "",
-    "whatsNew": ""
+    "whatsNew": "更新内容"
   },
   "popup": {
-    "loggedIn": "",
-    "goPremium": "",
-    "goPremiumMsg": "",
-    "note1": "",
-    "note2": "",
-    "note3": "",
-    "note4": "",
-    "note5": "",
-    "loginToUnlock": "",
-    "anote1": "",
-    "anote2": "",
-    "anote3": "",
-    "anote4": "",
+    "loggedIn": "您已登录",
+    "goPremium": "用户升级",
+    "goPremiumMsg": "升级解锁以下功能",
+    "note1": "高效的项目管理",
+    "note2": "无限的PDF文件存储",
+    "note3": "文献分析",
+    "note4": "引用推荐",
+    "note5": "意向期刊/会议分析",
+    "loginToUnlock": "立即登录解锁以下内容:",
+    "anote1": "一键导入引用",
+    "anote2": "支持Google Docs, Overleaf和Word",
+    "anote3": "支持协作写作",
+    "anote4": "智能文献推荐和分析",
     "writeIn": "",
     "importRefs": "",
-    "yourCitations": "",
-    "more": ""
+    "yourCitations": "你的Citasion项目:",
+    "more": "更多..."
   }
 }
