@@ -1,162 +1,162 @@
 {
   "globals": {
-    "notLoggedInMsg": "",
-    "errorLoginMsgNoLink": "",
-    "loading": "",
-    "premium": "",
-    "beta": "",
-    "citasion": "",
-    "login": "",
-    "text": "",
-    "citations": "",
-    "close": "",
-    "language": "",
-    "cancel": "",
-    "disassociate": "",
-    "home": ""
+    "notLoggedInMsg": "Usted no está registrado en su cuenta de la Citasion. Iniciar sesión {{openTag}}aquic{{closeTag}}",
+    "errorLoginMsgNoLink": "Su información de inicio de sesión parece estar desactualizada. Por favor, inicie sesión en Citasion.com",
+    "loading": "Cargando...",
+    "premium": "premium",
+    "beta": "beta",
+    "citasion": "Citasion",
+    "login": "Iniciar",
+    "text": "Texto",
+    "citations": "Citas",
+    "close": "Cerrar",
+    "language": "Idioma",
+    "cancel": "Cancelar",
+    "disassociate": "Desasociar",
+    "home": "Casa"
   },
   "citation-import": {
     "bg-citation-import": {
-      "maximumLimitReached": "",
-      "errorAdding": "",
-      "checkingFailed": ""
+      "maximumLimitReached": "El límite máximo de las citas que puede agregar puede haber sido alcanzado.",
+      "errorAdding": "Hubo un error cuando agregando una cita.",
+      "checkingFailed": "Comprobando la cita falló"
     },
     "cnt-citation-import": {
-      "addNewProject": "",
-      "notAuthorized": "",
-      "loadingCitation": "",
-      "addToCitasion": "",
-      "cannotImport": "",
-      "directImport": ""
+      "addNewProject": "Añadir nuevo proyecto...",
+      "notAuthorized": "Por favor inicie sesión en el sitio web de Citasion",
+      "loadingCitation": "Cita esta cargando",
+      "addToCitasion": "Añadir al Citasion",
+      "cannotImport": "No se puede importar este documento",
+      "directImport": "Se apoya la importación directa a la Citasion."
     }
   },
   "background": {
     "query": {
-      "unableToFetch": "",
-      "activeNotExists": "",
-      "cannotReceiveResource": "",
-      "unexpectedError": ""
+      "unableToFetch": "Incapaz de buscar la URL",
+      "activeNotExists": "El proyecto actualmente activo no existe. Visita {{openTag}}aqui{{closeTag}} para verificar que existe.",
+      "cannotReceiveResource": "No se puede recuperar el recurso del servidor web. El servidor está temporalmente abajo o se ha producido una ocurrida.",
+      "unexpectedError": "Ha ocurrido un error inesperado."
     }
   },
   "citation-manager": {
     "generators": {
-      "noCitationsFound": ""
+      "noCitationsFound": "No se encontraron citas en el documento. Por favor, al primero inserte algunas citas."
     },
     "menu": {
-      "updateCitation": "",
-      "addCitation": "",
-      "recommended": "",
-      "recent": "",
-      "searchInProject": "",
-      "insertCitation": "",
-      "editCitation": "",
-      "insertReferences": "",
-      "suggestCitation": "",
-      "bibliographyChange": "",
-      "setProject": "",
-      "suggestedAdded": "",
-      "noSuggested": "",
-      "keyTip": "",
-      "citationResults": "",
-      "typeKeywords": "",
-      "needRecommendations": "",
-      "recommendedCitations": "",
-      "insertingCitation": "",
-      "noCitationSelected": "",
-      "logout": "",
-      "inTextRecommendations": "",
-      "supportedLanguages": "",
-      "writingStyle": "",
-      "showOnlyOnce": "",
-      "addTwoOrMore": "",
-      "alreadyIncluded": "",
-      "biblioStyle": "",
-      "currentlySelected": "",
-      "selectAnOption": "",
-      "styleDoc": "",
-      "citationsCSL": "",
-      "changeBiblio": "",
-      "updatingBiblio": "",
-      "retrievingPreview": "",
-      "selectTheDropdown": "",
-      "changeProject": "",
-      "noRelevantCitations": "",
-      "clickToAdd": "",
-      "createMore": "",
-      "updatingProject": "",
-      "noProjectMsg": "",
-      "modifiedCitationMsg": "",
-      "pressToEdit": ""
+      "updateCitation": "Actualizar cita",
+      "addCitation": "Añadir al Citasion",
+      "recommended": "Citas recomendadas",
+      "recent": "Citas recientemente añadidas.",
+      "searchInProject": "Busca en su proyecto asociado para las citas.",
+      "insertCitation": "Insertar cita",
+      "editCitation": "Editar cita",
+      "insertReferences": "Insertar referencias",
+      "suggestCitation": "Sugerir citas en el texto",
+      "bibliographyChange": "Cambiar estilo de la bibliografía",
+      "setProject": "Establecer proyecto asociado",
+      "suggestedAdded": "Se agregaron citas sugeridas en su texto. Para mayor comodidad, se pueden identificar usando lo siguiente: {{temp}}",
+      "noSuggested": "No se encontraron ubicaciones adecuadas para las recomendaciones de cita en el texto.",
+      "keyTip": "Utilice las flechas {{openTag}}Arriba{{closeTag}} y {{openTag}}Abajo{{closeTag}} para navegar, {{openTag}}Enter{{closeTag}} para seleccionar una cita.",
+      "citationResults": "Resultados de citas",
+      "typeKeywords": "Escriba palabras clave o DOI",
+      "needRecommendations": "¿Necesitas recomendaciones?",
+      "recommendedCitations": "Cita recomendada",
+      "insertingCitation": "Inserción de citas en texto ...",
+      "noCitationSelected": "No se seleccionó ninguna cita.",
+      "logout": "Cerrar sesión de cita",
+      "inTextRecommendations": "Recomendaciones en el texto:",
+      "supportedLanguages": "Idiomas admitidos: inglés y español.",
+      "writingStyle": "Estilo de escritura",
+      "showOnlyOnce": "Mostrar solo una vez",
+      "addTwoOrMore": "Puede agregar dos o más citas despues buscando a otra vez.",
+      "alreadyIncluded": "La cita ya está incluida en la lista.",
+      "biblioStyle": "Estilo de la bibliografía",
+      "currentlySelected": "Vista previa del estilo seleccionado actualmente",
+      "selectAnOption": "Seleccione una opción de la lista de arriba",
+      "styleDoc": "Documentación de estilo",
+      "citationsCSL": "Citas de CSL (citeproc-js) - https://citationstyles.org",
+      "changeBiblio": "Cambiar bibliografía",
+      "updatingBiblio": "Actualización de estilo de la bibliografía ...",
+      "retrievingPreview": "Recuperación de vista previa ...",
+      "selectTheDropdown": "Seleccione el cuadro desplegable, pulse {{openTag}}retroceso{{closeTag}} y escriba para buscar un estilo de bibliografía.",
+      "changeProject": "Cambiar proyecto asociado",
+      "noRelevantCitations": "No se han encontrado citas relevantes o el proyecto no contiene citas.",
+      "clickToAdd": "Haga clic aquí para añadir más citas.",
+      "createMore": "Puedes crear más proyectos en {{openTag}}Citasion{{closeTag}}",
+      "updatingProject": "Actualización de proyecto asociado ...",
+      "noProjectMsg": "No ha establecido un proyecto para este documento. Por favor, establezca un proyecto del menú Citasion.",
+      "modifiedCitationMsg": "Ha modificado esta cita, por lo que no lo actualizaremos automáticamente cuando se actualicen las referencias. Si desea forzar una actualización, edítala usando la opción de menú Citasion -> Editar citación.",
+      "pressToEdit": "Pulse {{openTag}}Ctrl + M{{closeTag}} para editar la cita."
     },
     "google-docs": {
-      "authDecline": "",
-      "updatingReferences": "",
-      "editCitation": "",
-      "authPromptMsg": ""
+      "authDecline": "Citasion no puede trabajar en Google Docs sin autorizarlo para leer el documento para modificar las citas.",
+      "updatingReferences": "Actualizando referencias...",
+      "editCitation": "Editar cita",
+      "authPromptMsg": "Se le pedirá que autorice a Citasion para acceder a Google Docs para que pueda editar sus citas."
     },
     "overleaf": {
-      "citationSuggested": "",
-      "clickToCreate": "",
-      "suggestedCommented": ""
+      "citationSuggested": "Citasion cita sugerida",
+      "clickToCreate": "Haga clic en \"Crear\" para agregar todas sus referencias en un archivo BIB. Puede actualizar ese archivo si realiza algún cambio.",
+      "suggestedCommented": "Citasion sugerida cita comentó las líneas."
     },
     "text-recommendations": {
-      "recommendedCitation": "",
-      "addCitation": "",
-      "writingRecommendation": ""
+      "recommendedCitation": "Citas recomendadas",
+      "addCitation": "Añadir cita",
+      "writingRecommendation": "Recomendación de escritura"
     },
     "word": {
-      "ourBrowserSupports": "",
-      "updatingReferences": ""
+      "ourBrowserSupports": "Nuestra extensión de navegador admite la importación de referencia de un solo clic. Instale nuestra extensión {{openTag}}aqui{{closeTag}}",
+      "updatingReferences": "Actualización de referencias de documentos ..."
     }
   },
   "global": {
-    "settings": "",
-    "help": "",
+    "settings": "Ajustes",
+    "help": "Ayuda",
     "delayer": {
-      "takingABitLonger": "",
-      "takingABitLonger_plural": ""
+      "takingABitLonger": "Su consulta está tomando un poco más de tiempo para completarse debido a las restricciones del sitio web. El tiempo estimado es de {{count}} segundo.",
+      "takingABitLonger_plural": "Su consulta está tomando un poco más de tiempo para completarse debido a las restricciones del sitio web. El tiempo estimado es de {{count}} segundos."
     },
     "LanguageSelector": {
-      "preferred": "",
-      "thisWillReload": ""
+      "preferred": "Idioma preferido",
+      "thisWillReload": "Esto volverá a cargar la ventana para entrar en vigor."
     },
     "recommendation": {
-      "newReference": "",
-      "newInsight": ""
+      "newReference": "¡Tienes nuevas recomendaciones de referencia para tu proyecto!",
+      "newInsight": "¡Tienes nuevas ideas del lugar de publicación para tu proyecto!"
     }
   },
   "forms": {
-    "welcome": "",
-    "toBegin": "",
-    "citasionNeeds": "",
-    "citasionUses": "",
-    "shareMsg": "",
-    "agree": "",
-    "no": "",
-    "byInstalling": "",
-    "citasionUpdated": "",
-    "aFewThings": "",
-    "login": "",
-    "premiumMsg": "",
-    "whatsNew": ""
+    "welcome": "¡Bienvenido a Citasion Extension!",
+    "toBegin": "To begin using Citasion, please review the following information.",
+    "citasionNeeds": "Para comenzar a usar Citasion, revise la siguiente información.",
+    "citasionUses": "Citasion también utiliza datos técnicos y de dispositivos para evitar fraudes y personalizar el producto para usted. Esto incluye cookies que se utilizan para autenticarlo, datos personales como su dirección de correo electrónico, la información de su navegador y su dirección IP.",
+    "shareMsg": "Comparta datos de uso anónimos con Citasion. Para mejorar el producto para usted y otros usuarios, recopilamos datos sobre las funciones de Citasion que utiliza. Esto incluye datos como qué funciones de Citasion {{openTag}} y sitios web {{closeTag}} que usa con Citasion.",
+    "agree": "Estoy de acuerdo. ¡Activa Citasion!",
+    "no": "No, gracias. Por favor, desinstale.",
+    "byInstalling": "Al instalar la extensión, acepta los {{openTag}}Términos y condiciones{{closeTag}} de Citasion y reconoce que ha leído la {{openTag1}}Política de privacidad{{closeTag}} y la {{openTag2}}Política de cookies{{closeTag}} de Citasion",
+    "citasionUpdated": "¡Citasion Extensión actualizada!",
+    "aFewThings": "Algunas cosas en caso de que no lo hayan usado por un tiempo.",
+    "login": "Debe iniciar sesión en {{openTag}}Citasion.com{{closeTag}} para acceder a nuestras funciones.",
+    "premiumMsg": "Cuando visite sitios web compatibles con la extensión, aparecerán notificaciones para guiarlo sobre las funciones compatibles. Asegúrese de consultar nuestras funciones premium mientras se encuentra en el período de prueba o visite {{openTag}}premium{{closeTag}} para obtener más información.",
+    "whatsNew": "¡Qué hay de nuevo!"
   },
   "popup": {
-    "loggedIn": "",
-    "goPremium": "",
-    "goPremiumMsg": "",
-    "note1": "",
-    "note2": "",
-    "note3": "",
-    "note4": "",
-    "note5": "",
-    "loginToUnlock": "",
-    "anote1": "",
-    "anote2": "",
-    "anote3": "",
-    "anote4": "",
-    "writeIn": "",
-    "importRefs": "",
-    "yourCitations": "",
-    "more": ""
+    "loggedIn": "Has iniciado sesión y tienes acceso a todas nuestras características premium.",
+    "goPremium": "Hazte Premium",
+    "goPremiumMsg": "Hazte premium para desbloquear lo siguiente:",
+    "note1": "Gestión avanzada de proyectos en Citasion",
+    "note2": "Almacenamiento de papel PDF ilimitado",
+    "note3": "Análisis de literatura",
+    "note4": "Recomendaciones de literatura",
+    "note5": "Análisis del lugar de publicación",
+    "loginToUnlock": "Inicie sesión ahora para desbloquear lo siguiente:",
+    "anote1": "Importación de papel de un solo clic",
+    "anote2": "Fácil referendo para Google Docs, Overleaf y Word",
+    "anote3": "Soporte completo de la escritura colaborativa.",
+    "anote4": "Recomendaciones y analíticos a base de AI",
+    "writeIn": "Escribe en:",
+    "importRefs": "Importa referencias desde:",
+    "yourCitations": "Sus proyectos Citasion:",
+    "more": "...más"
   }
 }

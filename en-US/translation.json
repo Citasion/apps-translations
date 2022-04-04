@@ -113,8 +113,8 @@
     "settings": "Settings",
     "help": "Help",
     "delayer": {
-      "takingABitLonger": "Your query is taking a bit longer to complete due to website restrictions. Estimated time is {{count}} seconds.",
-      "takingABitLonger_plural": ""
+      "takingABitLonger": "Your query is taking a bit longer to complete due to website restrictions. Estimated time is {{count}} second.",
+      "takingABitLonger_plural": "Your query is taking a bit longer to complete due to website restrictions. Estimated time is {{count}} seconds."
     },
     "LanguageSelector": {
       "preferred": "Preferred Language",
