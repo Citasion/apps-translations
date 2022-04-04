@@ -19,7 +19,7 @@
     "bg-citation-import": {
       "maximumLimitReached": "The maximum limit of citations that you can add may have been reached.",
       "errorAdding": "There was an error adding a citation.",
-      "checkingFailed": "Checking citation failed"
+      "checkingFailed": "Cannot verify if this citation exists"
     },
     "cnt-citation-import": {
       "addNewProject": "Add a new project...",
@@ -85,7 +85,7 @@
       "createMore": "You can create more projects on {{openTag}}Citasion{{closeTag}}",
       "updatingProject": "Updating associated project...",
       "noProjectMsg": "You have not set an associated project for this document. Please set a project from the Citasion menu.",
-      "modifiedCitationMsg": "You have modified this citation so we will not automatically update it when references get updated. If you want to force an update, edit it using the Citasion -> Edit Citation menu option.",
+      "modifiedCitationMsg": "You have modified this citation manually so we won't automatically update it when reference style is updated. If you want to change this behavior, please check the menu Citasion -> Edit citation",
       "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation."
     },
     "text-recommendations": {
@@ -100,7 +100,7 @@
       "authPromptMsg": "You will be prompted to authorize Citasion to access Google Docs"
     },
     "overleaf": {
-      "citationSuggested": "Citasion suggested citation",
+      "citationSuggested": "Citations suggested by Citasion",
       "clickToCreate": "Click \"Create\" to add all your references in a bib file. You can refresh that file to render updates if you make any changes to your in-text citations",
       "suggestedCommented": "Citasion suggested citation commented lines"
     },
@@ -114,7 +114,7 @@
     "help": "Help",
     "delayer": {
       "takingABitLonger": "Your query is taking a bit longer to complete due to Google Scholar restrictions. Estimated time is {{count}} second",
-      "takingABitLonger_plural": "Your query is taking a bit longer to complete due to website restrictions. Estimated time is {{count}} seconds."
+      "takingABitLonger_plural": "Your query is taking a bit longer to complete due to Google Scholar restrictions. Estimated time is {{count}} seconds."
     },
     "LanguageSelector": {
       "preferred": "Preferred language",
@@ -137,7 +137,7 @@
     "citasionUpdated": "Citasion Extension updated!",
     "aFewThings": "A few things in case you havenot used Citasion for a while.",
     "login": "You need to log into {{openTag}}citasion.com{{closeTag}} before you can use Citasion",
-    "premiumMsg": "When you visit academic websites supported by the extension, notifications will appear to guide you on the available functions and features. Make sure to checkout our premium features while you are on the trial period or visit {{openTag}}premium{{closeTag}} for more information.",
+    "premiumMsg": "When you visit academic sites supported by Citasion Extension, notifications will appear to guide you on the available functions and features. Make sure to checkout our {{openTag}}premium features{{closeTag}} for more information",
     "whatsNew": "What's new!"
   },
   "popup": {
