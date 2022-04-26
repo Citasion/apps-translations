@@ -1,0 +1,162 @@
+{
+  "globals": {
+    "notLoggedInMsg": "",
+    "errorLoginMsgNoLink": "",
+    "loading": "",
+    "premium": "",
+    "beta": "",
+    "citasion": "",
+    "login": "",
+    "text": "",
+    "citations": "",
+    "close": "",
+    "language": "",
+    "cancel": "",
+    "disassociate": "",
+    "home": ""
+  },
+  "background": {
+    "query": {
+      "unableToFetch": "",
+      "activeNotExists": "",
+      "cannotReceiveResource": "",
+      "unexpectedError": ""
+    }
+  },
+  "citation-import": {
+    "bg-citation-import": {
+      "maximumLimitReached": "",
+      "errorAdding": "",
+      "checkingFailed": ""
+    },
+    "cnt-citation-import": {
+      "addNewProject": "",
+      "notAuthorized": "",
+      "loadingCitation": "",
+      "addToCitasion": "",
+      "cannotImport": "",
+      "directImport": ""
+    }
+  },
+  "citation-manager": {
+    "generators": {
+      "noCitationsFound": ""
+    },
+    "google-docs": {
+      "authDecline": "",
+      "updatingReferences": "",
+      "editCitation": "",
+      "authPromptMsg": ""
+    },
+    "menu": {
+      "updateCitation": "",
+      "addCitation": "",
+      "recommended": "",
+      "recent": "",
+      "searchInProject": "",
+      "insertReferences": "",
+      "insertCitation": "",
+      "editCitation": "",
+      "suggestCitation": "",
+      "bibliographyChange": "",
+      "setProject": "",
+      "suggestedAdded": "",
+      "noSuggested": "",
+      "keyTip": "",
+      "citationResults": "",
+      "typeKeywords": "",
+      "needRecommendations": "",
+      "recommendedCitations": "",
+      "insertingCitation": "",
+      "noCitationSelected": "",
+      "logout": "",
+      "inTextRecommendations": "",
+      "supportedLanguages": "",
+      "writingStyle": "",
+      "showOnlyOnce": "",
+      "addTwoOrMore": "",
+      "alreadyIncluded": "",
+      "biblioStyle": "",
+      "currentlySelected": "",
+      "selectAnOption": "",
+      "styleDoc": "",
+      "citationsCSL": "",
+      "changeBiblio": "",
+      "updatingBiblio": "",
+      "retrievingPreview": "",
+      "selectTheDropdown": "",
+      "changeProject": "",
+      "noRelevantCitations": "",
+      "clickToAdd": "",
+      "createMore": "",
+      "updatingProject": "",
+      "noProjectMsg": "",
+      "modifiedCitationMsg": "",
+      "pressToEdit": ""
+    },
+    "overleaf": {
+      "citationSuggested": "",
+      "clickToCreate": "",
+      "suggestedCommented": ""
+    },
+    "text-recommendations": {
+      "recommendedCitation": "",
+      "addCitation": "",
+      "writingRecommendation": ""
+    },
+    "word": {
+      "ourBrowserSupports": "",
+      "updatingReferences": ""
+    }
+  },
+  "global": {
+    "settings": "",
+    "help": "",
+    "delayer": {
+      "takingABitLonger": "",
+      "takingABitLonger_plural": ""
+    },
+    "LanguageSelector": {
+      "preferred": "",
+      "thisWillReload": ""
+    },
+    "recommendation": {
+      "newReference": "",
+      "newInsight": ""
+    }
+  },
+  "forms": {
+    "welcome": "",
+    "toBegin": "",
+    "citasionNeeds": "",
+    "citasionUses": "",
+    "shareMsg": "",
+    "agree": "",
+    "no": "",
+    "byInstalling": "",
+    "citasionUpdated": "",
+    "aFewThings": "",
+    "login": "",
+    "premiumMsg": "",
+    "whatsNew": ""
+  },
+  "popup": {
+    "loggedIn": "",
+    "goPremium": "",
+    "goPremiumMsg": "",
+    "note1": "",
+    "note2": "",
+    "note3": "",
+    "note4": "",
+    "note5": "",
+    "loginToUnlock": "",
+    "anote1": "",
+    "anote2": "",
+    "anote3": "",
+    "anote4": "",
+    "writeIn": "",
+    "importRefs": "",
+    "yourCitations": "",
+    "more": ""
+  }
+}
