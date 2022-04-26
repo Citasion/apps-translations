@@ -17,9 +17,9 @@
   },
   "background": {
     "query": {
-      "unableToFetch": "",
-      "activeNotExists": "",
-      "cannotReceiveResource": "",
+      "unableToFetch": "Αδυναμία ανάκτησης της διεύθυνσης url",
+      "activeNotExists": "Το εν ενεργεία ερευνητικό έργο δεν υφίσταται. Επισκεφθείτε το $1εδώ$2 για να ελέγξετε ξανά όλα τα έργα σας",
+      "cannotReceiveResource": "Δεν είναι δυνατή η ανάκτηση πόρων από το διακομιστή ιστού. Ο διακομιστής είναι προσωρινά εκτός λειτουργίας ή συνέβη κάποιο σφάλμα.",
       "unexpectedError": ""
     }
   },

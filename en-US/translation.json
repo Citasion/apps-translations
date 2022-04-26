@@ -86,7 +86,8 @@
       "updatingProject": "Updating associated project...",
       "noProjectMsg": "You have not set an associated project for this document. Please set a project from the Citasion menu.",
       "modifiedCitationMsg": "You have modified this citation manually so we won't automatically update it when reference style is updated. If you want to change this behavior, please check the menu Citasion -> Edit citation",
-      "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation."
+      "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation.",
+      "bibliographyDropdownPlaceholder": "Type to search a style"
     },
     "text-recommendations": {
       "recommendedCitation": "Recommended citation",
