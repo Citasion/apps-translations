@@ -1,19 +1,19 @@
 {
   "globals": {
-    "notLoggedInMsg": "",
-    "errorLoginMsgNoLink": "",
-    "loading": "",
-    "premium": "",
-    "beta": "",
-    "citasion": "",
-    "login": "",
-    "text": "",
-    "citations": "",
-    "close": "",
-    "language": "",
-    "cancel": "",
-    "disassociate": "",
-    "home": ""
+    "notLoggedInMsg": "Δεν έχετε συνδεθεί στο λογαριασμό σας στο Citasion. Σύνδεση {{openTag}}εδώ{{{closeTag}}",
+    "errorLoginMsgNoLink": "Τα στοιχεία σύνδεσής σας φαίνεται να είναι ληγμένα. Παρακαλώ συνδεθείτε στο citasion.com",
+    "loading": "Φόρτωση...",
+    "premium": "premium",
+    "beta": "beta",
+    "citasion": "Citasion",
+    "login": "Σύνδεση",
+    "text": "Κείμενο",
+    "citations": "Παραπομπές",
+    "close": "Κλείσιμο",
+    "language": "Γλώσσα",
+    "cancel": "Ακύρωση",
+    "disassociate": "Αποδέσμευση",
+    "home": "Αρχική σελίδα"
   },
   "background": {
     "query": {
@@ -110,19 +110,19 @@
     }
   },
   "global": {
-    "settings": "",
-    "help": "",
+    "settings": "Ρυθμίσεις",
+    "help": "Βοήθεια",
     "delayer": {
-      "takingABitLonger": "",
-      "takingABitLonger_plural": ""
+      "takingABitLonger": "Το ερώτημά σας χρειάζεται λίγο περισσότερο χρόνο για να ολοκληρωθεί λόγω των περιορισμών του Google Scholar. Ο εκτιμώμενος χρόνος είναι {{count}} δευτερόλεπτο",
+      "takingABitLonger_plural": "Το ερώτημά σας χρειάζεται λίγο περισσότερο χρόνο για να ολοκληρωθεί λόγω των περιορισμών του Google Scholar. Ο εκτιμώμενος χρόνος είναι {{count}} δευτερόλεπτα"
     },
     "LanguageSelector": {
-      "preferred": "",
-      "thisWillReload": ""
+      "preferred": "Προτιμώμενη γλώσσα",
+      "thisWillReload": "Αυτή η ενέργεια θα επαναφορτώσει την τρέχουσα καρτέλα του προγράμματος περιήγησης για να τεθεί σε ισχύ"
     },
     "recommendation": {
-      "newReference": "",
-      "newInsight": ""
+      "newReference": "Έχετε νέες συστάσεις αναφοράς για το έργο σας!",
+      "newInsight": "Έχετε νέες ιδέες για το χώρο δημοσίευσης για το έργο σας!"
     }
   },
   "forms": {
@@ -141,22 +141,22 @@
     "whatsNew": "Τι νέο υπάρχει!"
   },
   "popup": {
-    "loggedIn": "",
-    "goPremium": "",
-    "goPremiumMsg": "",
-    "note1": "",
-    "note2": "",
-    "note3": "",
-    "note4": "",
-    "note5": "",
-    "loginToUnlock": "",
-    "anote1": "",
-    "anote2": "",
-    "anote3": "",
-    "anote4": "",
-    "writeIn": "",
-    "importRefs": "",
-    "yourCitations": "",
-    "more": ""
+    "loggedIn": "Έχετε συνδεθεί και έχετε πρόσβαση σε όλες τις premium λειτουργίες μας",
+    "goPremium": "Αναβάθμιση premium",
+    "goPremiumMsg": "Κάντε αναβάθμιση σε premium για να ξεκλειδώσετε τα εξής:",
+    "note1": "Προηγμένη διαχείριση έργων Citasion",
+    "note2": "Απεριόριστη αποθήκευση άρθρων PDF",
+    "note3": "Ανάλυση βιβλιογραφίας",
+    "note4": "Συστάσεις βιβλιογραφίας",
+    "note5": "Ανάλυση του τόπου δημοσίευσης",
+    "loginToUnlock": "Συνδεθείτε τώρα για να ξεκλειδώσετε τα εξής:",
+    "anote1": "Εισαγωγή άρθρων με ένα κλικ",
+    "anote2": "Εύκολη χρήση παραπομπών για Google Docs, Overleaf και Word",
+    "anote3": "Πλήρης υποστήριξη της συνεργατικής γραφής",
+    "anote4": "Συστάσεις και αναλύσεις με βάση την τεχνητή νοημοσύνη",
+    "writeIn": "Γράψτε μέσα:",
+    "importRefs": "Εισαγωγή αναφορών από:",
+    "yourCitations": "Τα έργα σας Citasion:",
+    "more": "...περισσότερα"
   }
 }
