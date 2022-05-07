@@ -1,6 +1,6 @@
 {
   "globals": {
-    "notLoggedInMsg": "Δεν έχετε συνδεθεί στο λογαριασμό σας στο Citasion. Σύνδεση {{openTag}}εδώ{{{closeTag}}",
+    "notLoggedInMsg": "Δεν έχετε συνδεθεί στο λογαριασμό σας στο Citasion. Σύνδεση {{openTag}}εδώ{{closeTag}}",
     "errorLoginMsgNoLink": "Τα στοιχεία σύνδεσής σας φαίνεται να είναι ληγμένα. Παρακαλώ συνδεθείτε στο citasion.com",
     "loading": "Φόρτωση...",
     "premium": "premium",
