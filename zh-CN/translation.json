@@ -35,7 +35,7 @@
       "unableToFetch": "无法获取URL",
       "activeNotExists": "该项目不存在。请点击$1这里$2查看你所有的项目",
       "cannotReceiveResource": "无法连接服务器, 请稍后重试",
-      "unexpectedError": "发生意外的错误"
+      "unexpectedError": "发生意外的错误。 请尝试在Citasion上退出和登录，并重新启动你的浏览器。"
     }
   },
   "citation-manager": {

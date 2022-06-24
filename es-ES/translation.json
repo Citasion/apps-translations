@@ -35,7 +35,7 @@
       "unableToFetch": "Incapaz de buscar la URL",
       "activeNotExists": "El proyecto actualmente activo no existe. Visita {{openTag}}aqui{{closeTag}} para verificar que existe.",
       "cannotReceiveResource": "No se puede recuperar el recurso del servidor web. El servidor está temporalmente abajo o se ha producido una ocurrida.",
-      "unexpectedError": "Ha ocurrido un error inesperado."
+      "unexpectedError": "Ha ocurrido un error inesperado. Por favor, intenta cerrar e iniciar sesión en Citasion y reinicia su navegador."
     }
   },
   "citation-manager": {

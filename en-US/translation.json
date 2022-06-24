@@ -35,7 +35,7 @@
       "unableToFetch": "Unable to fetch the url",
       "activeNotExists": "The currently active project does not exist. Visit $1here$2 to double check all your projects",
       "cannotReceiveResource": "Cannot retrieve resources from the web server. The server is temporarily down or an error occured",
-      "unexpectedError": "An unexpected error has occured."
+      "unexpectedError": "An unexpected error has occured. Please try to sign out and sign in on Citasion and restart your browser."
     }
   },
   "citation-manager": {
