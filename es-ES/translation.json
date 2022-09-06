@@ -86,7 +86,8 @@
       "updatingProject": "Actualización de proyecto asociado ...",
       "noProjectMsg": "No ha establecido un proyecto para este documento. Por favor, establezca un proyecto del menú Citasion.",
       "modifiedCitationMsg": "Ha modificado esta cita, por lo que no lo actualizaremos automáticamente cuando se actualicen las referencias. Si desea forzar una actualización, edítala usando la opción de menú Citasion -> Editar citación.",
-      "pressToEdit": "Pulse {{openTag}}Ctrl + M{{closeTag}} para editar la cita."
+      "pressToEdit": "Pulse {{openTag}}Ctrl + M{{closeTag}} para editar la cita.",
+      "import": "Importar"
     },
     "google-docs": {
       "authDecline": "Citasion no puede trabajar en Google Docs sin autorizarlo para leer el documento para modificar las citas.",

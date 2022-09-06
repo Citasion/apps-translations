@@ -86,7 +86,8 @@
       "updatingProject": "加载新的关联项目...",
       "noProjectMsg": "您尚未为此文档设置Citasion引用项目; 请从菜单中选择一个关联项目",
       "modifiedCitationMsg": "你手动修改了这个引用；当参考文献样式更新时，我们不会自动更新该引用。如果你想改变Citasion的这种默认行为，请点击菜单Citasion -> 更新引用",
-      "pressToEdit": "快捷键: 按{{openTag}}Ctrl + M{{closeTag}}来编辑引用"
+      "pressToEdit": "快捷键: 按{{openTag}}Ctrl + M{{closeTag}}来编辑引用",
+      "import": "进口"
     },
     "google-docs": {
       "authDecline": "Citasion不能在没有授权的情况下编辑Google Docs。请先授权Citasion编辑Google Docs的权限",

@@ -87,7 +87,15 @@
       "noProjectMsg": "You have not set an associated project for this document. Please set a project from the Citasion menu.",
       "modifiedCitationMsg": "You have modified this citation manually so we won't automatically update it when reference style is updated. If you want to change this behavior, please check the menu Citasion -> Edit citation",
       "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation.",
-      "bibliographyDropdownPlaceholder": "Type to search a style"
+      "bibliographyDropdownPlaceholder": "Type to search a style",
+      "insertLiteratureReview": "Insert literature review",
+      "literatureReviewNote": "This menu allows you to generate a literature review based on your project citations. Not all citations are used but the most important. Also, citations need to have an abstract for this to be effective.",
+      "litReviewOK": "Insert",
+      "litReviewCancel": "Cancel",
+      "litReviewParaphraseToggle": "Paraphrase",
+      "literatureReviewParaphraseNote": "Alters the original text that is extracted from the paper so that it won't be exactly like the original. Warning: Increases compilation time.",
+      "literatureReviewEstimatedTime": "Estimated time (minutes): {{count}}",
+      "import": "Import"
     },
     "text-recommendations": {
       "recommendedCitation": "Recommended citation",
