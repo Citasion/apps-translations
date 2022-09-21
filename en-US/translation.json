@@ -95,7 +95,8 @@
       "litReviewParaphraseToggle": "Paraphrase",
       "literatureReviewParaphraseNote": "Alters the original text that is extracted from the paper so that it won't be exactly like the original. Warning: Increases compilation time.",
       "literatureReviewEstimatedTime": "Estimated time (minutes): {{count}}",
-      "import": "Import"
+      "import": "Import",
+      "litReviewFailed": "Something went wrong. Make sure that there is enough papers that contain abstracts in your project."
     },
     "text-recommendations": {
       "recommendedCitation": "Recommended citation",
@@ -116,6 +117,10 @@
     "word": {
       "ourBrowserSupports": "Our browser extension supports one-click reference importation. Install our extension {{openTag}}here{{closeTag}}",
       "updatingReferences": "Updating references..."
+    },
+    "lit-review": {
+      "literatureReview": "Literature Review",
+      "literatureReviewDesc": "We identified the following topics of research related to our work which we itemize further below:"
     }
   },
   "global": {
