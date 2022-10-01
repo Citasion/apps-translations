@@ -96,7 +96,8 @@
       "literatureReviewParaphraseNote": "Alters the original text that is extracted from the paper so that it won't be exactly like the original. Warning: Increases compilation time.",
       "literatureReviewEstimatedTime": "Estimated time (minutes): {{count}}",
       "import": "Import",
-      "litReviewFailed": "Something went wrong. Make sure that there is enough papers that contain abstracts in your project."
+      "litReviewFailed": "Something went wrong. Make sure that there is enough papers that contain abstracts in your project.",
+      "literatureReviewTitle": "Literature Review Generator"
     },
     "text-recommendations": {
       "recommendedCitation": "Recommended citation",
@@ -120,7 +121,9 @@
     },
     "lit-review": {
       "literatureReview": "Literature Review",
-      "literatureReviewDesc": "We identified the following topics of research related to our work which we itemize further below:"
+      "literatureReviewDesc": "We identified the following topics of research related to our work which we itemize further below:",
+      "literatureReviewAutoMsg": "Citasion Auto-generated Literature Review",
+      "literatureReviewAutoMsgEnd": "Citasion Auto-generated Literature Review End"
     }
   },
   "global": {
