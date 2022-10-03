@@ -93,7 +93,8 @@
       "authDecline": "Citasion no puede trabajar en Google Docs sin autorizarlo para leer el documento para modificar las citas.",
       "updatingReferences": "Actualizando referencias...",
       "editCitation": "Editar cita",
-      "authPromptMsg": "Se le pedirá que autorice a Citasion para acceder a Google Docs para que pueda editar sus citas."
+      "authPromptMsg": "Se le pedirá que autorice a Citasion para acceder a Google Docs para que pueda editar sus citas.",
+      "notDocX": "No se admiten documentos doc o docx en Google Docs. Utilice Archivo -> Guardar como Google Docs para utilizar Citasion en su documento."
     },
     "overleaf": {
       "citationSuggested": "Citasion cita sugerida",

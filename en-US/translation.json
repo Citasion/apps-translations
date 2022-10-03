@@ -109,7 +109,7 @@
       "updatingReferences": "Updating references...",
       "editCitation": "Edit citation",
       "authPromptMsg": "You will be prompted to authorize Citasion to access Google Docs",
-      "notDocX": "No doc or docx documents are supported in Google Docs. Use File -> Save as Google Docs in order to use Citasion in your document.."
+      "notDocX": "No doc or docx documents are supported in Google Docs. Use File -> Save as Google Docs in order to use Citasion in your document."
     },
     "overleaf": {
       "citationSuggested": "Citations suggested by Citasion",

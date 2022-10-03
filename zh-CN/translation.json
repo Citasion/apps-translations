@@ -93,7 +93,8 @@
       "authDecline": "Citasion不能在没有授权的情况下编辑Google Docs。请先授权Citasion编辑Google Docs的权限",
       "updatingReferences": "更新文献...",
       "editCitation": "更新引用",
-      "authPromptMsg": "Citasion需要编辑Google Docs的权限来加载引用"
+      "authPromptMsg": "Citasion需要编辑Google Docs的权限来加载引用",
+      "notDocX": "在Google Docs中不支持doc或docx文档。使用文件->保存为Google Docs，以便在文件中使用Citasion。"
     },
     "overleaf": {
       "citationSuggested": "Citasion推荐的引用",
