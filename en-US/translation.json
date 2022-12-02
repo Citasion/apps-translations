@@ -1,11 +1,11 @@
 {
   "globals": {
-    "notLoggedInMsg": "You are not logged in your Citasion account. Login {{openTag}}here{{closeTag}}",
-    "errorLoginMsgNoLink": "Your login information appears to be outdated. Please login at citasion.com",
+    "notLoggedInMsg": "You are not logged in your BibNext account. Login {{openTag}}here{{closeTag}}",
+    "errorLoginMsgNoLink": "Your login information appears to be outdated. Please login at BibNext.com",
     "loading": "Loading...",
     "premium": "premium",
     "beta": "beta",
-    "citasion": "Citasion",
+    "BibNext": "BibNext",
     "login": "Login",
     "text": "Text",
     "citations": "Citations",
@@ -23,11 +23,11 @@
     },
     "cnt-citation-import": {
       "addNewProject": "Add a new project...",
-      "notAuthorized": "Please log in through the Citasion website",
+      "notAuthorized": "Please log in through the BibNext website",
       "loadingCitation": "Loading Citation",
-      "addToCitasion": "Add to Citasion",
+      "addToBibNext": "Add to BibNext",
       "cannotImport": "Cannot import this paper",
-      "directImport": "Direct importation to Citasion is supported"
+      "directImport": "Direct importation to BibNext is supported"
     }
   },
   "background": {
@@ -35,7 +35,7 @@
       "unableToFetch": "Unable to fetch the url",
       "activeNotExists": "The currently active project does not exist. Visit $1here$2 to double check all your projects",
       "cannotReceiveResource": "Cannot retrieve resources from the web server. The server is temporarily down or an error occured",
-      "unexpectedError": "An unexpected error has occured. Please try to sign out and sign in on Citasion and restart your browser."
+      "unexpectedError": "An unexpected error has occured. Please try to sign out and sign in on BibNext and restart your browser."
     }
   },
   "citation-manager": {
@@ -63,7 +63,7 @@
       "recommendedCitations": "Recommended citations",
       "insertingCitation": "Inserting citations in text...",
       "noCitationSelected": "No citation was selected",
-      "logout": "Logout from Citasion",
+      "logout": "Logout from BibNext",
       "inTextRecommendations": "In-text recommendations:",
       "supportedLanguages": "Supported languages: English, Chinese, and Spanish",
       "writingStyle": "Writing style",
@@ -82,10 +82,10 @@
       "changeProject": "Change associated project",
       "noRelevantCitations": "No relevant citations found or project contains no citations.",
       "clickToAdd": "Click here to add more citations",
-      "createMore": "You can create more projects on {{openTag}}Citasion{{closeTag}}",
+      "createMore": "You can create more projects on {{openTag}}BibNext{{closeTag}}",
       "updatingProject": "Updating associated project...",
-      "noProjectMsg": "You have not set an associated project for this document. Please set a project from the Citasion menu.",
-      "modifiedCitationMsg": "You have modified this citation manually so we won't automatically update it when reference style is updated. If you want to change this behavior, please check the menu Citasion -> Edit citation",
+      "noProjectMsg": "You have not set an associated project for this document. Please set a project from the BibNext menu.",
+      "modifiedCitationMsg": "You have modified this citation manually so we won't automatically update it when reference style is updated. If you want to change this behavior, please check the menu BibNext -> Edit citation",
       "pressToEdit": "Press {{openTag}}Ctrl + M{{closeTag}} to edit the citation.",
       "bibliographyDropdownPlaceholder": "Type to search a style",
       "insertLiteratureReview": "Insert literature review",
@@ -105,16 +105,16 @@
       "writingRecommendation": "Writing recommendation"
     },
     "google-docs": {
-      "authDecline": "Citasion cannot work with Google Docs without the authorization. Please authorize Citasion to access Google Docs first",
+      "authDecline": "BibNext cannot work with Google Docs without the authorization. Please authorize BibNext to access Google Docs first",
       "updatingReferences": "Updating references...",
       "editCitation": "Edit citation",
-      "authPromptMsg": "You will be prompted to authorize Citasion to access Google Docs",
-      "notDocX": "No doc or docx documents are supported in Google Docs. Use File -> Save as Google Docs in order to use Citasion in your document."
+      "authPromptMsg": "You will be prompted to authorize BibNext to access Google Docs",
+      "notDocX": "No doc or docx documents are supported in Google Docs. Use File -> Save as Google Docs in order to use BibNext in your document."
     },
     "overleaf": {
-      "citationSuggested": "Citations suggested by Citasion",
+      "citationSuggested": "Citations suggested by BibNext",
       "clickToCreate": "Click \"Create\" to add all your references in a bib file. You can refresh that file to render updates if you make any changes to your in-text citations",
-      "suggestedCommented": "Citasion suggested citation commented lines"
+      "suggestedCommented": "BibNext suggested citation commented lines"
     },
     "word": {
       "ourBrowserSupports": "Our browser extension supports one-click reference importation. Install our extension {{openTag}}here{{closeTag}}",
@@ -123,8 +123,8 @@
     "lit-review": {
       "literatureReview": "Literature Review",
       "literatureReviewDesc": "We identified the following topics of research related to our work which we itemize further below:",
-      "literatureReviewAutoMsg": "Citasion Auto-generated Literature Review",
-      "literatureReviewAutoMsgEnd": "Citasion Auto-generated Literature Review End"
+      "literatureReviewAutoMsg": "BibNext Auto-generated Literature Review",
+      "literatureReviewAutoMsgEnd": "BibNext Auto-generated Literature Review End"
     }
   },
   "global": {
@@ -144,25 +144,25 @@
     }
   },
   "forms": {
-    "welcome": "Welcome to the Citasion Extension!",
-    "toBegin": "To begin using Citasion, please review the following information.",
-    "citasionNeeds": "Citasion needs access to your browser tabs to import and recommend citations",
-    "citasionUses": "Citasion also uses technical and device data to prevent fraud and to customize the product for you. This includes cookies that are used to authenticate you, personal data such as your email address, your browser information, and your IP address.",
-    "shareMsg": "Share anonymous usage data with Citasion. To make the product better for you and other users, we collect data on which Citasion features you use. This includes data such as which Citasion features {{openTag}}and websites{{closeTag}} you use with Citasion.",
-    "agree": "I agree. Activate Citasion!",
+    "welcome": "Welcome to the BibNext Extension!",
+    "toBegin": "To begin using BibNext, please review the following information.",
+    "BibNextNeeds": "BibNext needs access to your browser tabs to import and recommend citations",
+    "BibNextUses": "BibNext also uses technical and device data to prevent fraud and to customize the product for you. This includes cookies that are used to authenticate you, personal data such as your email address, your browser information, and your IP address.",
+    "shareMsg": "Share anonymous usage data with BibNext. To make the product better for you and other users, we collect data on which BibNext features you use. This includes data such as which BibNext features {{openTag}}and websites{{closeTag}} you use with BibNext.",
+    "agree": "I agree. Activate BibNext!",
     "no": "No, thanks. Please uninstall.",
-    "byInstalling": "By installing the extension you agree to Citasion's {{openTag}}Terms and Conditions{{closeTag}} and acknowledge that you have read Citasion's {{openTag1}}Privacy Policy{{closeTag}} and {{openTag2}}Cookie Policy{{closeTag}}",
-    "citasionUpdated": "Citasion Extension updated!",
-    "aFewThings": "A few things in case you have not used Citasion for a while.",
-    "login": "You need to log into {{openTag}}citasion.com{{closeTag}} before you can use Citasion",
-    "premiumMsg": "When you visit academic sites supported by Citasion Extension, notifications will appear to guide you on the available functions and features. Make sure to checkout our {{openTag}}premium features{{closeTag}} for more information",
+    "byInstalling": "By installing the extension you agree to BibNext's {{openTag}}Terms and Conditions{{closeTag}} and acknowledge that you have read BibNext's {{openTag1}}Privacy Policy{{closeTag}} and {{openTag2}}Cookie Policy{{closeTag}}",
+    "BibNextUpdated": "BibNext Extension updated!",
+    "aFewThings": "A few things in case you have not used BibNext for a while.",
+    "login": "You need to log into {{openTag}}BibNext.com{{closeTag}} before you can use BibNext",
+    "premiumMsg": "When you visit academic sites supported by BibNext Extension, notifications will appear to guide you on the available functions and features. Make sure to checkout our {{openTag}}premium features{{closeTag}} for more information",
     "whatsNew": "What's new!"
   },
   "popup": {
     "loggedIn": "You are logged in and have access to all our premium features",
     "goPremium": "Go premium",
     "goPremiumMsg": "Go premium to unlock the following:",
-    "note1": "Advanced Citasion project management",
+    "note1": "Advanced BibNext project management",
     "note2": "Unlimited PDF paper storage",
     "note3": "Literature analytics",
     "note4": "Literature recommendations",
@@ -174,7 +174,7 @@
     "anote4": "AI-based recommendations and analytics",
     "writeIn": "Write in:",
     "importRefs": "Import references from:",
-    "yourCitations": "Your Citasion projects:",
+    "yourCitations": "Your BibNext projects:",
     "more": "...more"
   }
 }

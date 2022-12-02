@@ -1,11 +1,11 @@
 {
   "globals": {
-    "notLoggedInMsg": "Usted no está registrado en su cuenta de la Citasion. Iniciar sesión {{openTag}}aquic{{closeTag}}",
-    "errorLoginMsgNoLink": "Su información de inicio de sesión parece estar desactualizada. Por favor, inicie sesión en citasion.com",
+    "notLoggedInMsg": "Usted no está registrado en su cuenta de la BibNext. Iniciar sesión {{openTag}}aquic{{closeTag}}",
+    "errorLoginMsgNoLink": "Su información de inicio de sesión parece estar desactualizada. Por favor, inicie sesión en BibNext.com",
     "loading": "Cargando...",
     "premium": "premium",
     "beta": "beta",
-    "citasion": "Citasion",
+    "BibNext": "BibNext",
     "login": "Iniciar",
     "text": "Texto",
     "citations": "Citas",
@@ -23,11 +23,11 @@
     },
     "cnt-citation-import": {
       "addNewProject": "Añadir nuevo proyecto...",
-      "notAuthorized": "Por favor inicie sesión en el sitio web de Citasion",
+      "notAuthorized": "Por favor inicie sesión en el sitio web de BibNext",
       "loadingCitation": "Cita esta cargando",
-      "addToCitasion": "Añadir al Citasion",
+      "addToBibNext": "Añadir al BibNext",
       "cannotImport": "No se puede importar este documento",
-      "directImport": "Se apoya la importación directa a la Citasion."
+      "directImport": "Se apoya la importación directa a la BibNext."
     }
   },
   "background": {
@@ -35,7 +35,7 @@
       "unableToFetch": "Incapaz de buscar la URL",
       "activeNotExists": "El proyecto actualmente activo no existe. Visita {{openTag}}aqui{{closeTag}} para verificar que existe.",
       "cannotReceiveResource": "No se puede recuperar el recurso del servidor web. El servidor está temporalmente abajo o se ha producido una ocurrida.",
-      "unexpectedError": "Ha ocurrido un error inesperado. Por favor, intenta cerrar e iniciar sesión en Citasion y reinicia su navegador."
+      "unexpectedError": "Ha ocurrido un error inesperado. Por favor, intenta cerrar e iniciar sesión en BibNext y reinicia su navegador."
     }
   },
   "citation-manager": {
@@ -82,24 +82,24 @@
       "changeProject": "Cambiar proyecto asociado",
       "noRelevantCitations": "No se han encontrado citas relevantes o el proyecto no contiene citas.",
       "clickToAdd": "Haga clic aquí para añadir más citas.",
-      "createMore": "Puedes crear más proyectos en {{openTag}}Citasion{{closeTag}}",
+      "createMore": "Puedes crear más proyectos en {{openTag}}BibNext{{closeTag}}",
       "updatingProject": "Actualización de proyecto asociado ...",
-      "noProjectMsg": "No ha establecido un proyecto para este documento. Por favor, establezca un proyecto del menú Citasion.",
-      "modifiedCitationMsg": "Ha modificado esta cita, por lo que no lo actualizaremos automáticamente cuando se actualicen las referencias. Si desea forzar una actualización, edítala usando la opción de menú Citasion -> Editar citación.",
+      "noProjectMsg": "No ha establecido un proyecto para este documento. Por favor, establezca un proyecto del menú BibNext.",
+      "modifiedCitationMsg": "Ha modificado esta cita, por lo que no lo actualizaremos automáticamente cuando se actualicen las referencias. Si desea forzar una actualización, edítala usando la opción de menú BibNext -> Editar citación.",
       "pressToEdit": "Pulse {{openTag}}Ctrl + M{{closeTag}} para editar la cita.",
       "import": "Importar"
     },
     "google-docs": {
-      "authDecline": "Citasion no puede trabajar en Google Docs sin autorizarlo para leer el documento para modificar las citas.",
+      "authDecline": "BibNext no puede trabajar en Google Docs sin autorizarlo para leer el documento para modificar las citas.",
       "updatingReferences": "Actualizando referencias...",
       "editCitation": "Editar cita",
-      "authPromptMsg": "Se le pedirá que autorice a Citasion para acceder a Google Docs para que pueda editar sus citas.",
-      "notDocX": "No se admiten documentos doc o docx en Google Docs. Utilice Archivo -> Guardar como Google Docs para utilizar Citasion en su documento."
+      "authPromptMsg": "Se le pedirá que autorice a BibNext para acceder a Google Docs para que pueda editar sus citas.",
+      "notDocX": "No se admiten documentos doc o docx en Google Docs. Utilice Archivo -> Guardar como Google Docs para utilizar BibNext en su documento."
     },
     "overleaf": {
-      "citationSuggested": "Citasion cita sugerida",
+      "citationSuggested": "BibNext cita sugerida",
       "clickToCreate": "Haga clic en \"Crear\" para agregar todas sus referencias en un archivo BIB. Puede actualizar ese archivo si realiza algún cambio.",
-      "suggestedCommented": "Citasion sugerida cita comentó las líneas."
+      "suggestedCommented": "BibNext sugerida cita comentó las líneas."
     },
     "text-recommendations": {
       "recommendedCitation": "Citas recomendadas",
@@ -128,17 +128,17 @@
     }
   },
   "forms": {
-    "welcome": "¡Bienvenido a Citasion Extension!",
-    "toBegin": "To begin using Citasion, please review the following information.",
-    "citasionNeeds": "Para comenzar a usar Citasion, revise la siguiente información.",
-    "citasionUses": "Citasion también utiliza datos técnicos y de dispositivos para evitar fraudes y personalizar el producto para usted. Esto incluye cookies que se utilizan para autenticarlo, datos personales como su dirección de correo electrónico, la información de su navegador y su dirección IP.",
-    "shareMsg": "Comparta datos de uso anónimos con Citasion. Para mejorar el producto para usted y otros usuarios, recopilamos datos sobre las funciones de Citasion que utiliza. Esto incluye datos como qué funciones de Citasion {{openTag}} y sitios web {{closeTag}} que usa con Citasion.",
-    "agree": "Estoy de acuerdo. ¡Activa Citasion!",
+    "welcome": "¡Bienvenido a BibNext Extension!",
+    "toBegin": "To begin using BibNext, please review the following information.",
+    "BibNextNeeds": "Para comenzar a usar BibNext, revise la siguiente información.",
+    "BibNextUses": "BibNext también utiliza datos técnicos y de dispositivos para evitar fraudes y personalizar el producto para usted. Esto incluye cookies que se utilizan para autenticarlo, datos personales como su dirección de correo electrónico, la información de su navegador y su dirección IP.",
+    "shareMsg": "Comparta datos de uso anónimos con BibNext. Para mejorar el producto para usted y otros usuarios, recopilamos datos sobre las funciones de BibNext que utiliza. Esto incluye datos como qué funciones de BibNext {{openTag}} y sitios web {{closeTag}} que usa con BibNext.",
+    "agree": "Estoy de acuerdo. ¡Activa BibNext!",
     "no": "No, gracias. Por favor, desinstale.",
-    "byInstalling": "Al instalar la extensión, acepta los {{openTag}}Términos y condiciones{{closeTag}} de Citasion y reconoce que ha leído la {{openTag1}}Política de privacidad{{closeTag}} y la {{openTag2}}Política de cookies{{closeTag}} de Citasion",
-    "citasionUpdated": "¡Citasion Extensión actualizada!",
+    "byInstalling": "Al instalar la extensión, acepta los {{openTag}}Términos y condiciones{{closeTag}} de BibNext y reconoce que ha leído la {{openTag1}}Política de privacidad{{closeTag}} y la {{openTag2}}Política de cookies{{closeTag}} de BibNext",
+    "BibNextUpdated": "¡BibNext Extensión actualizada!",
     "aFewThings": "Algunas cosas en caso de que no lo hayan usado por un tiempo.",
-    "login": "Debe iniciar sesión en {{openTag}}Citasion.com{{closeTag}} para acceder a nuestras funciones.",
+    "login": "Debe iniciar sesión en {{openTag}}BibNext.com{{closeTag}} para acceder a nuestras funciones.",
     "premiumMsg": "Cuando visite sitios web compatibles con la extensión, aparecerán notificaciones para guiarlo sobre las funciones compatibles. Asegúrese de consultar nuestras funciones premium mientras se encuentra en el período de prueba o visite {{openTag}}premium{{closeTag}} para obtener más información.",
     "whatsNew": "¡Qué hay de nuevo!"
   },
@@ -146,7 +146,7 @@
     "loggedIn": "Has iniciado sesión y tienes acceso a todas nuestras características premium.",
     "goPremium": "Hazte Premium",
     "goPremiumMsg": "Hazte premium para desbloquear lo siguiente:",
-    "note1": "Gestión avanzada de proyectos en Citasion",
+    "note1": "Gestión avanzada de proyectos en BibNext",
     "note2": "Almacenamiento de papel PDF ilimitado",
     "note3": "Análisis de literatura",
     "note4": "Recomendaciones de literatura",
@@ -158,7 +158,7 @@
     "anote4": "Recomendaciones y analíticos a base de AI",
     "writeIn": "Escribe en:",
     "importRefs": "Importa referencias desde:",
-    "yourCitations": "Sus proyectos Citasion:",
+    "yourCitations": "Sus proyectos BibNext:",
     "more": "...más"
   }
 }
