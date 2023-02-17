@@ -1,11 +1,11 @@
 {
   "globals": {
-    "notLoggedInMsg": "你还没有登录Citasion; 请先{{openTag}}登录{{closeTag}}",
-    "errorLoginMsgNoLink": "您的登录信息已经过期; 请先登录citasion.com",
+    "notLoggedInMsg": "你还没有登录BibNext; 请先{{openTag}}登录{{closeTag}}",
+    "errorLoginMsgNoLink": "您的登录信息已经过期; 请先登录BibNext.com",
     "loading": "加载...",
     "premium": "高级会员",
     "beta": "beta",
-    "citasion": "Citasion",
+    "BibNext": "BibNext",
     "login": "登录",
     "text": "文本",
     "citations": "引用",
@@ -13,7 +13,7 @@
     "language": "选择语言",
     "cancel": "取消",
     "disassociate": "移除关联项目",
-    "home": "Citasion主页"
+    "home": "BibNext主页"
   },
   "citation-import": {
     "bg-citation-import": {
@@ -23,9 +23,9 @@
     },
     "cnt-citation-import": {
       "addNewProject": "添加新项目...",
-      "notAuthorized": "请通过Citasion网站登录",
-      "loadingCitation": "加载Citasion",
-      "addToCitasion": "导入该引用",
+      "notAuthorized": "请通过BibNext网站登录",
+      "loadingCitation": "加载BibNext",
+      "addToBibNext": "导入该引用",
       "cannotImport": "无法导入该引用",
       "directImport": "不支持自动引用导入"
     }
@@ -35,7 +35,7 @@
       "unableToFetch": "无法获取URL",
       "activeNotExists": "该项目不存在。请点击$1这里$2查看你所有的项目",
       "cannotReceiveResource": "无法连接服务器, 请稍后重试",
-      "unexpectedError": "发生意外的错误。 请尝试在Citasion上退出和登录，并重新启动你的浏览器。"
+      "unexpectedError": "发生意外的错误。 请尝试在BibNext上退出和登录，并重新启动你的浏览器。"
     }
   },
   "citation-manager": {
@@ -82,22 +82,22 @@
       "changeProject": "改变关联项目",
       "noRelevantCitations": "没有找到相关的引用或项目内没有任何引用",
       "clickToAdd": "点击此处添加更多引用",
-      "createMore": "你可以在{{openTag}}Citasion{{closeTag}}上创建更多项目",
+      "createMore": "你可以在{{openTag}}BibNext{{closeTag}}上创建更多项目",
       "updatingProject": "加载新的关联项目...",
-      "noProjectMsg": "您尚未为此文档设置Citasion引用项目; 请从菜单中选择一个关联项目",
-      "modifiedCitationMsg": "你手动修改了这个引用；当参考文献样式更新时，我们不会自动更新该引用。如果你想改变Citasion的这种默认行为，请点击菜单Citasion -> 更新引用",
+      "noProjectMsg": "您尚未为此文档设置BibNext引用项目; 请从菜单中选择一个关联项目",
+      "modifiedCitationMsg": "你手动修改了这个引用；当参考文献样式更新时，我们不会自动更新该引用。如果你想改变BibNext的这种默认行为，请点击菜单BibNext -> 更新引用",
       "pressToEdit": "快捷键: 按{{openTag}}Ctrl + M{{closeTag}}来编辑引用",
       "import": "进口"
     },
     "google-docs": {
-      "authDecline": "Citasion不能在没有授权的情况下编辑Google Docs。请先授权Citasion编辑Google Docs的权限",
+      "authDecline": "BibNext不能在没有授权的情况下编辑Google Docs。请先授权BibNext编辑Google Docs的权限",
       "updatingReferences": "更新文献...",
       "editCitation": "更新引用",
-      "authPromptMsg": "Citasion需要编辑Google Docs的权限来加载引用",
-      "notDocX": "在Google Docs中不支持doc或docx文档。使用文件->保存为Google Docs，以便在文件中使用Citasion。"
+      "authPromptMsg": "BibNext需要编辑Google Docs的权限来加载引用",
+      "notDocX": "在Google Docs中不支持doc或docx文档。使用文件->保存为Google Docs，以便在文件中使用BibNext。"
     },
     "overleaf": {
-      "citationSuggested": "Citasion推荐的引用",
+      "citationSuggested": "BibNext推荐的引用",
       "clickToCreate": "点击 Create来添加一个Bib文件 (包含所有引用对应的参考文献添)。如果你更新了任何文本内的引用，你可以刷新该文件",
       "suggestedCommented": ""
     },
@@ -127,18 +127,18 @@
     }
   },
   "forms": {
-    "welcome": "欢迎下载使用Citasion插件!",
-    "toBegin": "使用Citasion之前, 请阅读以下信息",
-    "citasionNeeds": "Citasion需要访问你当前的浏览器页面来导入和推荐引文",
-    "citasionUses": "Citasion也使用设备数据来防止欺诈和为您定制产品，这些数据包括用于验证你的Citasion账户的cookies，你的电子邮件地址，你的浏览器信息，以及你的IP地址。",
-    "shareMsg": "与Citasion分享匿名的使用数据：为了使产品更好地服务于你和其他用户，我们会收集你使用Citasion的数据，包括诸如你使用了哪些功能和访问{{openTag}}Citasion网站{{closeTag}}的数据。",
-    "agree": "我同意以上条款; 激活Citasion!",
-    "no": "请继续卸载Citasion",
-    "byInstalling": "安装插件代表您同意Citasion的{{openTag}}条款和声明{{closeTag}}，并承认您已阅读Citasion的{{openTag1}}隐私保护协议{{closeTag}}和{{openTag2}}Cookie隐私条款和声明{{closeTag}}。",
-    "citasionUpdated": "Citasion插件已更新",
-    "aFewThings": "如果你有一段时间没有使用Citasion，你可能需要注意：",
-    "login": "使用Citasion之前，你需要登录{{openTag}}citasion.com{{closeTag}}",
-    "premiumMsg": "当你访问Citasion插件支持的学术网站时，插件会引导你了解Citasion可用的功能。请查看我们的{{openTag}}高级功能{{closeTag}}来了解更多信息",
+    "welcome": "欢迎下载使用BibNext插件!",
+    "toBegin": "使用BibNext之前, 请阅读以下信息",
+    "BibNextNeeds": "BibNext需要访问你当前的浏览器页面来导入和推荐引文",
+    "BibNextUses": "BibNext也使用设备数据来防止欺诈和为您定制产品，这些数据包括用于验证你的BibNext账户的cookies，你的电子邮件地址，你的浏览器信息，以及你的IP地址。",
+    "shareMsg": "与BibNext分享匿名的使用数据：为了使产品更好地服务于你和其他用户，我们会收集你使用BibNext的数据，包括诸如你使用了哪些功能和访问{{openTag}}BibNext网站{{closeTag}}的数据。",
+    "agree": "我同意以上条款; 激活BibNext!",
+    "no": "请继续卸载BibNext",
+    "byInstalling": "安装插件代表您同意BibNext的{{openTag}}条款和声明{{closeTag}}，并承认您已阅读BibNext的{{openTag1}}隐私保护协议{{closeTag}}和{{openTag2}}Cookie隐私条款和声明{{closeTag}}。",
+    "BibNextUpdated": "BibNext插件已更新",
+    "aFewThings": "如果你有一段时间没有使用BibNext，你可能需要注意：",
+    "login": "使用BibNext之前，你需要登录{{openTag}}BibNext.com{{closeTag}}",
+    "premiumMsg": "当你访问BibNext插件支持的学术网站时，插件会引导你了解BibNext可用的功能。请查看我们的{{openTag}}高级功能{{closeTag}}来了解更多信息",
     "whatsNew": "更新内容"
   },
   "popup": {
@@ -157,7 +157,7 @@
     "anote4": "智能文献推荐和分析",
     "writeIn": "支持的写作平台和软件:",
     "importRefs": "支持自动引用导入的学术站点:",
-    "yourCitations": "你的Citasion项目:",
+    "yourCitations": "你的BibNext项目:",
     "more": "更多..."
   }
 }
