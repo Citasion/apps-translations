@@ -25,7 +25,7 @@
       "addNewProject": "Añadir nuevo proyecto...",
       "notAuthorized": "Por favor inicie sesión en el sitio web de BibNext",
       "loadingCitation": "Cita esta cargando",
-      "addToBibNext": "Añadir al BibNext",
+      "addToCitasion": "Añadir al BibNext",
       "cannotImport": "No se puede importar este documento",
       "directImport": "Se apoya la importación directa a la BibNext."
     }

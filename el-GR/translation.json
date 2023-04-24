@@ -33,7 +33,7 @@
       "addNewProject": "Προσθέστε ένα νέο ερευνητικό έργο...",
       "notAuthorized": "Συνδεθείτε μέσω της ιστοσελίδας BibNext",
       "loadingCitation": "Φόρτωση παραπομπής",
-      "addToBibNext": "Προσθήκη στο BibNext",
+      "addToCitasion": "Προσθήκη στο BibNext",
       "cannotImport": "Δεν είναι δυνατή η εισαγωγή αυτού του άρθρου",
       "directImport": "Υποστηρίζεται η άμεση εισαγωγή στο BibNext"
     }

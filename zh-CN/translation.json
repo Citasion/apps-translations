@@ -25,7 +25,7 @@
       "addNewProject": "添加新项目...",
       "notAuthorized": "请通过BibNext网站登录",
       "loadingCitation": "加载BibNext",
-      "addToBibNext": "导入该引用",
+      "addToCitasion": "导入该引用",
       "cannotImport": "无法导入该引用",
       "directImport": "不支持自动引用导入"
     }
